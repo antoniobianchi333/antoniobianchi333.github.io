@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Bianchi</title>
+    <link>/</link>
+    <description>Recent content on Antonio Bianchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spring 2020: Software Security (CS-52700-LE1)</title>
+      <link>/teaching/spring2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Class time:&lt;/strong&gt; Tuesday and Thursday: 6:00-6:50 pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class location:&lt;/strong&gt; Lawson Computer Science Building (LWSN) 1106&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Webpage:&lt;/strong&gt; Blackboard and &lt;a href=&#34;https://piazza.com/purdue/spring2020/cs52700&#34; target=&#34;_blank&#34;&gt;Piazza&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Antonio Bianchi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office:&lt;/strong&gt; LWSN 1167&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office Hours:&lt;/strong&gt; Tuesday: 4:15-5:45 pm and by appointment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:antoniob@purdue.edu&#34; target=&#34;_blank&#34;&gt;antoniob@purdue.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching Assistant:&lt;/strong&gt; Bader AlBassam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching Assistant Email:&lt;/strong&gt; &lt;a href=&#34;mailto:balbassa@purdue.edu&#34; target=&#34;_blank&#34;&gt;balbassa@purdue.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lab Sessions:&lt;/strong&gt;&lt;br&gt;
+Wednesdays 1:30-3:20 pm in HAAS G056, Thursdays at 11:30-1:20 pm in LWSN B146.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This course focuses on software security fundamentals, secure coding guidelines and principles, and advanced software security concepts.
+Students will learn to assess and understand threats, how to reverse engineering code to find vulnerabilities, and they will get hands-on experience with detection and exploitation of common security pitfalls.&lt;/p&gt;
+
+&lt;p&gt;The course consists of two lectures per week (50 minutes each) and lab sessions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Objectives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Software running on current systems is exploited by attackers despite many deployed defence mechanisms and best practices for developing new software.
+In this course students will learn about current security threats, attack vectors, and defence mechanisms on current systems.
+The students will work with real world problems and technical challenges of security mechanisms (both in the design and implementation of programming languages, compilers, and runtime systems).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning Outcomes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Students who complete the course will have demonstrated the ability to do the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Explain the most common weaknesses in software security and understand how such problems can be avoided in software.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Identify common security threats, risks, and attack vectors for software systems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Evaluate and assess current security best practices and defense mechanisms for current software systems. Become aware of limitations of existing defense mechanisms and how to avoid them.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Identify security problems in source code and binaries, assess the associated risks, and reason about their severity and exploitability.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Assess the security of given source code or applications.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;CS 52600, Introduction to Information Security or equivalent course with the consent of the instructor.&lt;/p&gt;
+
+&lt;p&gt;This is an advanced, hands-on, class.
+Significant programming experience and skills are required.
+Students enrolling in this course are strongly recommended to already have a good knowledge of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;System programming and C (pointers, memory management, system calls)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a Linux-based operating system and programming environment&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, students are required to write code using Python.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Policies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This course will be run under the &amp;ldquo;reasonable adults&amp;rdquo; policy wherein it is assumed that all students are reasonable adults that want to benefit the most of the course by attending the course regularly, completing the homework assignments on time, asking questions during the course and if they run into problems, and checking back with the instructor and the TA regularly to ensure good progress.&lt;/p&gt;
+
+&lt;p&gt;Exams will be comprehensive, covering everything up to the exam date, emphasizing integrating material from recent assignments. The exam may include open questions, multiple-choice questions, numerical problems, and understanding/writing snippets of code. The exams will be closed book.&lt;/p&gt;
+
+&lt;p&gt;Homework assignments grading will mainly focus on automated test and emphasize correctly completing all or a part of the assignment. Submitting incorrect homework (e.g., submitting the wrong file, files in the wrong format, not compiling code, &amp;hellip;) will result in zero points. Students should double check the file(s) they submitted.&lt;/p&gt;
+
+&lt;p&gt;Cheating will not be tolerated and will result in a grade of zero for that assignment. Further actions against cheating students will be considered. Students are encouraged to consult the instructor to ensure whether (and to which extent) collaboration and discussion among students are allowed for a particular assignment. Students are not allowed to share, copy, or show, the code they developed for an assignment. Students are not allowed to copy homework solutions from online resources (even partially). All homework assignments should be done individually, unless otherwise noted.&lt;/p&gt;
+
+&lt;p&gt;If you have any question about the course policy, do not hesitate to ask the instructor or the TA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Late Work&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each student will be entitled to 3 late days. One late day may be used to delay the homework submission for a single day (24 hours). A student can use all the 3 late days for a single homework assignment submission. Note that, late submissions for which students have no late days available will not be accepted, &lt;strong&gt;regardless of the reason why the student submitted late&lt;/strong&gt;. Students should exercise the use of late days wisely as the homework assignments are likely to be progressively harder. There will not be any fractional late day.&lt;/p&gt;
+
+&lt;p&gt;Late days cannot be used for midterm and final exams. It may not be possible to use late days for some of the homework assignments, as specified by the instructor in the assignment&amp;rsquo;s description.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Communication Policies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a general rule, questions about homework assignments and class material should be posted publicly on Piazza, so that everyone can benefit from their answers. However, be careful not to post publicly assignment solutions (even partially).&lt;/p&gt;
+
+&lt;p&gt;All emails sent to the instructor and the TA must be sent from the student&amp;rsquo;s official Purdue email address. All emails must clearly state the student&amp;rsquo;s full name and Purdue ID (something like: john123).&lt;/p&gt;
+
+&lt;p&gt;Questions about grading should be first sent to the TA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grading&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The course grade will be assigned based on the student’s performance on the following testing criteria.&lt;/p&gt;
+
+&lt;p&gt;Homework assignments will contribute to the 65% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Midterm examination will contribute to the 16% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Final examination will contribute to the 19% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Grades with +/- will be assigned.&lt;/p&gt;
+
+&lt;p&gt;After 2 weeks from the day in which an assignment&amp;rsquo;s grades have been posted, re-grading requests will not be considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fall 2019: Mobile Systems and Smartphone Security (CS-59000-MSS)</title>
+      <link>/teaching/fall2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Class time:&lt;/strong&gt; Tuesday and Thursday: 10:30-11:45 am&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class location:&lt;/strong&gt; Psychological Sciences Bldg 3102&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Webpage:&lt;/strong&gt; Blackboard and Piazza (&lt;a href=&#34;https://piazza.com/purdue/fall2019/cs59000mss&#34; target=&#34;_blank&#34;&gt;https://piazza.com/purdue/fall2019/cs59000mss&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Antonio Bianchi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office:&lt;/strong&gt; LWSN 1167&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:antoniob@purdue.edu&#34; target=&#34;_blank&#34;&gt;antoniob@purdue.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This course will discuss security and privacy aspects relevant to mobile systems (smartphones, tablets, …).&lt;/p&gt;
+
+&lt;p&gt;More than one billion mobile devices are sold every year, and, for billions of people these devices have become the primary way to access online services and perform sensitive operations (e.g., monetary transactions using mobile banking apps). Unfortunately, the security of these devices, their operating systems, and their apps is far from perfect.&lt;/p&gt;
+
+&lt;p&gt;This course will cover topics such as the mobile application ecosystem, the design and architecture of mobile operating systems, rooting/jailbreaking, mobile applications and malware reverse engineering, vulnerability assessment, automatic static and dynamic analysis, and exploitation and mitigation techniques.&lt;/p&gt;
+
+&lt;p&gt;Given its open nature, this course will mostly focus on Google’s Android, but it will also provide some details about Apple’s IOS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an advanced, hands-on, class. Students enrolling in this course are strongly recommended to already have a good knowledge of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Java programming&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;System programming and C (pointers, memory management, system calls)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Knowledge in the following areas is also highly suggested:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;a Linux-based operating system and programming environment&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;TCP/IP networking&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, students may be required to write code using scripting languages, such as Python or Javascript.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course resources:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This class does not have a primary textbook. Resources will be provided by the instructor on Blackboard and the Piazza online forum. Resources will be in the form of slides, code samples, web links, and scientific publications. Students are required to enroll in the Piazza online forum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grading Policies:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Exams will be comprehensive, covering everything up to the exam date, emphasizing integrating material from recent assignments. The exam may include open questions, multiple-choice questions, numerical problems, and understanding/writing snippets of code. The exams will be closed book. Students that cannot attend the exam due to conflicts (e.g., illness, religious holidays) may make alternate arrangements (in advance, if at all possible).&lt;/p&gt;
+
+&lt;p&gt;Homework grading will mainly focus on automated test and emphasize correctly completing all or a part of the assignment. Submitting incorrect homework (e.g., submitting the wrong file, files in the wrong format, not compiling code, …) will result in zero points. Students should double check the file(s) they submitted.&lt;/p&gt;
+
+&lt;p&gt;Cheating will not be tolerated and will result in a grade of zero for that assignment. Further actions against cheating students will be considered. Students are encouraged to consult the instructor to ensure whether (and to which extent) collaboration and discussion among students are allowed for a particular assignment. Students are not allowed to share, copy, or show, the code they developed for an assignment. Students are not allowed to copy homework solutions from online resources (even partially). All homework assignments should be done individually, unless otherwise noted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grading:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The course grade will be assigned based on the student’s performance on the following testing criteria.&lt;/p&gt;
+
+&lt;p&gt;Homework assignments, including written and programming assignments, will contribute to the 60% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Midterm examination will contribute to the 18% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Final examination will contribute to the 22% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Grades with +/- will be assigned.&lt;/p&gt;
+
+&lt;p&gt;After 2 weeks from the day in which an assignment&amp;rsquo;s grades have been posted, re-grading requests will not be considered.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Late Work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each student will be entitled to 3 late days. One late day may be used to delay the homework submission for a single day (24 hours). A student can use all the 3 late days for a single homework assignment submission. Note that, late submissions for which students have no late days available will not be accepted, regardless of the reason why the student submitted late. Students should exercise the use of late days wisely as the homework assignments are likely to be progressively harder. There will not be any fractional late day.&lt;/p&gt;
+
+&lt;p&gt;Late days cannot be used for midterm and final exams. It may not be possible to use late days for some of the homework assignments, as specified by the instructor in the assignment&amp;rsquo;s description.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Communication Policies:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a general rule, questions about homework assignments and class material should be posted publicly on Piazza, so that everyone can benefit from their answers. However, be careful not to post publicly assignment solutions (even partially).&lt;/p&gt;
+
+&lt;p&gt;All emails sent to the instructor should be sent from the student&amp;rsquo;s official Purdue email address. All emails should clearly state the student&amp;rsquo;s full name and Purdue ID (something like: john123).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving Defcon Quals 2019 VeryAndroidoso using angr</title>
+      <link>/posts/ctf-defconquals2019-veryandroidoso/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2019-veryandroidoso/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;For Defcon Quals 2019, I wrote a challenge called VeryAndroidoso.&lt;/p&gt;
+
+&lt;p&gt;It is an Android crackme, written using both Java and native code.&lt;/p&gt;
+
+&lt;p&gt;Many teams solved this challenge using reverse engineering and &lt;a href=&#34;https://www.frida.re/&#34; target=&#34;_blank&#34;&gt;Frida&lt;/a&gt;.
+However, I designed it so that it could also be solved using &lt;a href=&#34;https://github.com/angr/angr&#34; target=&#34;_blank&#34;&gt;angr&lt;/a&gt;.
+In fact, &lt;code&gt;angr&lt;/code&gt; now has some &lt;a href=&#34;https://angr.io/blog/java_angr/&#34; target=&#34;_blank&#34;&gt;experimental support for symbolic execution of Java and Android apps&lt;/a&gt; (including apps using a combination of Dalvik bytecode and native C/C++ code).&lt;/p&gt;
+
+&lt;p&gt;The code of my solution using &lt;code&gt;angr&lt;/code&gt; is available in the &lt;a href=&#34;https://github.com/angr/angr-doc/tree/master/examples/defcon2019quals_veryandroidoso&#34; target=&#34;_blank&#34;&gt;angr-doc repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-few-notes&#34;&gt;A few notes&lt;/h2&gt;
+
+&lt;p&gt;To run correctly, the solution script needed a small fix to &lt;code&gt;angr&lt;/code&gt;.
+This fix adds support for the &lt;code&gt;cmp&lt;/code&gt; Soot bytecode expression.
+To avoid potentially leaking information about the challenge, &lt;a href=&#34;https://github.com/angr/angr/pull/1569&#34; target=&#34;_blank&#34;&gt;the fix&lt;/a&gt; was pushed and merged to the &lt;code&gt;angr&lt;/code&gt; repository only after the end of the competition.
+I think that a team who wanted to use &lt;code&gt;angr&lt;/code&gt; to solve this challenge could have quite easily figured out how to fix this issue.&lt;/p&gt;
+
+&lt;p&gt;A more subtle issue is the following Exception from CLE:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;...
+  File &amp;quot;/home/antoniob/git/angr_pypy/angr-dev/cle/cle/backends/externs/__init__.py&amp;quot;, line 112, in allocate
+    raise CLEOperationError(&amp;quot;Ran out of room in the extern object...! Report this as a bug.&amp;quot;)
+cle.errors.CLEOperationError: Ran out of room in the extern object...! Report this as a bug.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;My understanding is that this happens due to a bug on how the JNI interface is implemented.
+The linked solution contains a workaround for this issue:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;# extern_size=0x800000 prevents CLE bug
+project = angr.Project(apk_location, main_opts=loading_opts, extern_size=0x800000)
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;My solution provides good examples of how to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;load a mixed Java/native Android app,&lt;/li&gt;
+&lt;li&gt;specify Java &amp;ldquo;addresses&amp;rdquo; (different code locations),&lt;/li&gt;
+&lt;li&gt;run symbolic execution starting from a specific Java code location and having specific symbolic values,&lt;/li&gt;
+&lt;li&gt;run symbolic execution until a condition is met, pruning failed paths,&lt;/li&gt;
+&lt;li&gt;write SimProcedures re-defining Java methods,&lt;/li&gt;
+&lt;li&gt;read and write values from the symbolic Java memory.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My &lt;code&gt;solve.py&lt;/code&gt; script runs in about one hour using &lt;code&gt;pypy&lt;/code&gt;.
+It does not stop immediately after a solution is found since it explores all paths.
+For this reason, it takes more time to finish than what strictly necessary, but I could use it to double check that this challenge had a single solution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Defcon Quals 2019: ASRybaB</title>
+      <link>/posts/ctf-defconquals2019-asrybab/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2019-asrybab/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;For Defcon Quals 2019, I wrote a challenge called ASRybaB.&lt;/p&gt;
+
+&lt;p&gt;You can find the challenge, its solution, and other scripts &lt;a href=&#34;media/ASRybaB.tgz&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;challenge.py&lt;/code&gt; contains what given during the competition. Some of the code is obfuscated.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;secret.py&lt;/code&gt; contains the secret used to compute the HMAC, and it was, obviously, not released.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;compile.py&lt;/code&gt; was used to generate &lt;code&gt;challenge.py&lt;/code&gt; starting from &lt;code&gt;originalchallenge.py&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;originalchallenge.py&lt;/code&gt; contains the non-obfuscated challenge code.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;solve_d.sage&lt;/code&gt; contains my solution, which uses &lt;code&gt;sage&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The challenge sends you 3 RSA &amp;ldquo;challenges&amp;rdquo; in the form of &lt;code&gt;n, e, v&lt;/code&gt;.
+The goal is to provide a &amp;ldquo;signed&amp;rdquo; value of &lt;code&gt;v&lt;/code&gt;, which requires finding the secret exponent &lt;code&gt;d&lt;/code&gt;, corresponding to the provided public key &lt;code&gt;(n, e)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To get the flag, it is necessary to provide the 3 signed messages in about 15 minutes.
+To ensure this time constraint, I used an HMAC, &amp;ldquo;authenticating&amp;rdquo; the sent &lt;code&gt;n, e, v&lt;/code&gt; values and the timestamp of when they were generated.
+I chose this solution to avoid requiring a long-term connection or saving some state on the challenge&amp;rsquo;s server.&lt;/p&gt;
+
+&lt;h2 id=&#34;obfuscation&#34;&gt;Obfuscation&lt;/h2&gt;
+
+&lt;p&gt;The public key &lt;code&gt;(n, e)&lt;/code&gt; is computed so that the corresponding private exponent has special properties.
+This function computing the key (&lt;code&gt;create_key&lt;/code&gt;) is obfuscated (see the &lt;code&gt;compile.py&lt;/code&gt; file) by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;serializing it using Python &lt;code&gt;marshal&lt;/code&gt;,&lt;/li&gt;
+&lt;li&gt;modifying its bytecode to make decompilers fail.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Specifically, I inserted a &lt;code&gt;STOP_CODE&lt;/code&gt; bytecode instruction in some dead code.
+It was still possible to reverse engineer the &lt;code&gt;create_key&lt;/code&gt; function by using the &lt;code&gt;dis&lt;/code&gt; module, however that required reading Python bytecode instead of Python code.
+Another possibility was to add a &lt;code&gt;.pyc&lt;/code&gt; header to the marshaled code, manually remove the &lt;code&gt;STOP_CODE&lt;/code&gt; bytecode, and then use a Python decompiler (e.g., &lt;a href=&#34;https://github.com/rocky/python-uncompyle6&#34; target=&#34;_blank&#34;&gt;uncompyle6&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;properties-of-the-private-exponent&#34;&gt;Properties of the private exponent&lt;/h2&gt;
+
+&lt;p&gt;The non-obfuscated code of the &lt;code&gt;create_key&lt;/code&gt; function is the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;def create_key():
+    if False: #used by obfuscation
+        x = 7/0
+        x = 7/0
+
+    Nsize = NSIZE
+    pqsize = Nsize/2
+    N = 0 
+    while(N.bit_length()!=Nsize):
+        while True:
+            p = number.getStrongPrime(pqsize)
+            q = number.getStrongPrime(pqsize)
+            if abs(p-q).bit_length() &amp;gt; (Nsize*0.496):
+                break
+        N = p*q
+    phi = (p-1)*(q-1)
+
+    limit1 = 0.261
+    limit2 = 0.293
+    while True:
+        d = number.getRandomRange(pow(2,int(Nsize*limit1)),pow(2,int(Nsize*limit1)+1))
+        while d.bit_length()&amp;lt;Nsize*limit2:
+            ppp = 0
+            while not number.isPrime(ppp):
+                ppp = number.getRandomRange(pow(2,45),pow(2,45)+pow(2,12))
+            d *= ppp
+        if number.GCD(d, phi)!=1:
+            continue
+        e = number.inverse(d, phi)
+        if number.GCD(e, phi)!=1:
+            continue
+        break
+
+    zzz = 3
+
+    return (N, e)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The key is generated so that the private exponent &lt;code&gt;d&lt;/code&gt; is slightly larger of the &lt;code&gt;0.292&lt;/code&gt; limit, so that the &lt;a href=&#34;https://github.com/mimoo/RSA-and-LLL-attacks/raw/master/survey_final.pdf&#34; target=&#34;_blank&#34;&gt;Boneh-Durfee attack&lt;/a&gt; cannot be applied directly.&lt;/p&gt;
+
+&lt;p&gt;However, given how the key is computed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;it is guaranteed to contain a prime &lt;code&gt;ppp&lt;/code&gt; (within a set of 125 values),&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;d/ppp &amp;lt; N^0.292&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;my-solution&#34;&gt;My solution&lt;/h2&gt;
+
+&lt;p&gt;My solution reuses the Boneh-Durfee attack implemented by David Wong and available on &lt;a href=&#34;https://github.com/mimoo/RSA-and-LLL-attacks&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;, with 2 major modifications.&lt;/p&gt;
+
+&lt;h4 id=&#34;exploiting-the-known-prime&#34;&gt;Exploiting the known prime&lt;/h4&gt;
+
+&lt;p&gt;Let&amp;rsquo;s assume for now that we know the value &lt;code&gt;ppp&lt;/code&gt; of the prime composing &lt;code&gt;d&lt;/code&gt;.
+We can then rewrite the equations at page 14 of the paper mentioned above in the following way:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;e*d = 1 (mod phi(N))
+e*d = k * phi(N) + 1
+(e*ppp)*(d/ppp) = k * phi(N) + 1
+k*phi(N) + 1 = 0 (mod e*ppp)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Consequently, if we know &lt;code&gt;ppp&lt;/code&gt; we can just apply the &amp;ldquo;standard&amp;rdquo; Boneh-Durfee attack &lt;strong&gt;using &lt;code&gt;ppp * e&lt;/code&gt; as the modulo of our equation, instead of &lt;code&gt;e&lt;/code&gt;&lt;/strong&gt;.
+In my code this is implemented by the line:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;modulus *= ppp
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;bruteforcing-the-known-prime&#34;&gt;Bruteforcing the known prime&lt;/h4&gt;
+
+&lt;p&gt;As mentioned above &lt;code&gt;ppp&lt;/code&gt; can only have 125 values. Since we need to solve 3 challenges, at most, we need to run the Boneh-Durfee &lt;code&gt;125*3 = 375&lt;/code&gt; times.
+My code uses a Python multiprocessing Queue to parallelize this process.
+On a modern 64 cores machine, this takes, at most, about 15 minutes.&lt;/p&gt;
+
+&lt;h2 id=&#34;some-considerations&#34;&gt;Some considerations&lt;/h2&gt;
+
+&lt;h4 id=&#34;bruteforcing&#34;&gt;Bruteforcing&lt;/h4&gt;
+
+&lt;p&gt;I wanted to write a challenge requiring writing parallel code.
+At the same time, I wanted to avoid a solution that could only be implemented by spending a lot of money or using special hardware.
+For this reason, while implementing the challenge I intentionally tuned things so that it was solvable using less than &lt;code&gt;$1&lt;/code&gt; of cloud computing.
+On &lt;a href=&#34;https://aws.amazon.com/ec2/pricing/on-demand/&#34; target=&#34;_blank&#34;&gt;Amazon EC2&lt;/a&gt; a 64 vCPU machine (&lt;code&gt;m4.16xlarge&lt;/code&gt;) costs $3.20 per hour, which is only about $0.80 for the required 15 minutes of computation.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-0-292-limit&#34;&gt;The &lt;code&gt;0.292&lt;/code&gt; limit&lt;/h4&gt;
+
+&lt;p&gt;I did quite a lot of testing and, at least with the code I used, it was basically impossible to find a solution for &lt;code&gt;d&lt;/code&gt; above &lt;code&gt;N ^ 0.28&lt;/code&gt;.
+For this reason, I think that the &lt;code&gt;0.292&lt;/code&gt; is more a theoretical limit than a real one.&lt;/p&gt;
+
+&lt;h4 id=&#34;p-and-q&#34;&gt;&lt;code&gt;p&lt;/code&gt; and &lt;code&gt;q&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.enseignement.polytechnique.fr/profs/informatique/Francois.Morain/Master1/Crypto/projects/Weger02.pdf&#34; target=&#34;_blank&#34;&gt;This paper&lt;/a&gt; explains that if &lt;code&gt;p-q&lt;/code&gt; is &amp;ldquo;small&amp;rdquo; a variation of the Boneh-Durfee could be possible even if &lt;code&gt;d &amp;gt; N ^ 0.292&lt;/code&gt;.
+To avoid this issue, my code rejects &lt;code&gt;p&lt;/code&gt; and &lt;code&gt;q&lt;/code&gt; values if their difference is not large enough.
+However, this check increased the computation time needed to generate the keys and made me concerned about the service using too much CPU, slowing down our infrastructure.
+For this reason, to access this challenge, it was first needed to generate a Proof-of-Work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spring 2019: Mobile Systems and Smartphone Security (CS:4980)</title>
+      <link>/teaching/spring2019/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Class time:&lt;/strong&gt; Tuesday and Thursday: 2:00-3:15 p.m&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class location:&lt;/strong&gt; 205 MLH (MacLean Hall)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Webpage:&lt;/strong&gt; ICON, &lt;a href=&#34;https://sites.google.com/view/antoniobianchiuiowa/teaching/cs4980-spring-2019-operating-systems&#34; target=&#34;_blank&#34;&gt;https://sites.google.com/view/antoniobianchiuiowa/teaching/cs4980-spring-2019-operating-systems&lt;/a&gt;, and &lt;a href=&#34;https://piazza.com/uiowa/spring2019/cs4980&#34; target=&#34;_blank&#34;&gt;https://piazza.com/uiowa/spring2019/cs4980&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Antonio Bianchi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office:&lt;/strong&gt; 201g&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:antonio-bianchi@uiowa.edu&#34; target=&#34;_blank&#34;&gt;antonio-bianchi@uiowa.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching assistant:&lt;/strong&gt; Muhammad Hammad Mazhar (&lt;a href=&#34;mailto:muhammadhammad-mazhar@uiowa.edu&#34; target=&#34;_blank&#34;&gt;muhammadhammad-mazhar@uiowa.edu&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor’s office hours:&lt;/strong&gt;
+Tuesday: 4:15-5:45 pm,
+Thursday: 3:30-5:00 pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching assistant’s office hours:&lt;/strong&gt; Monday and Wednesday: 3:30-4:20pm in 201N MLH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DEO contact information:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Alberto Segre, 14 MLH (MacLean Hall), 319 3350713, &lt;a href=&#34;mailto:CS-INFO@list.uiowa.edu&#34; target=&#34;_blank&#34;&gt;CS-INFO@list.uiowa.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Course description and objective:&lt;/p&gt;
+
+&lt;p&gt;This course will discuss security and privacy aspects relevant to mobile systems (smartphones, tablets, &amp;hellip;).&lt;/p&gt;
+
+&lt;p&gt;More than one billion mobile devices are sold every year, and, for billions of people these devices have become the primary way to access online services and perform sensitive operations (e.g., monetary transactions using mobile banking apps). Unfortunately, the security of these devices, their operating systems, and their apps is far from perfect.&lt;/p&gt;
+
+&lt;p&gt;This course will cover topics such as the mobile application ecosystem, the design and architecture of mobile operating systems, rooting/jailbreaking, mobile applications and malware reverse engineering, vulnerability assessment, automatic static and dynamic analysis, and exploitation and mitigation techniques.&lt;/p&gt;
+
+&lt;p&gt;Given its open nature, this course will mostly focus on Google&amp;rsquo;s Android, but it will also provide some details about Apple&amp;rsquo;s IOS.&lt;/p&gt;
+
+&lt;p&gt;Requirements:&lt;/p&gt;
+
+&lt;p&gt;This is an advanced, hands-on, class. Students enrolling in this course are strongly recommended to already have a good knowledge of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Java programming&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;System programming and C (pointers, memory management, system calls)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Knowledge in the following areas is also highly suggested:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;a Linux-based operating system and programming environment&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;TCP/IP networking&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, students may be required to write code using scripting languages, such as Python or Javascript.&lt;/p&gt;
+
+&lt;p&gt;Course resources:&lt;/p&gt;
+
+&lt;p&gt;This class does not have a primary textbook. Resources will be provided by the instructor on ICON and the Piazza online forum. Resources will be in the form of slides, code samples, web links, and scientific publications. Students are required to enroll in the Piazza online forum.&lt;/p&gt;
+
+&lt;p&gt;Grading Policies:&lt;/p&gt;
+
+&lt;p&gt;Exams will be comprehensive, covering everything up to the exam date, emphasizing integrating material from recent assignments. The exam may include open questions, multiple-choice questions, numerical problems, and understanding/writing snippets of code. The exams will be closed book. Students that cannot attend the exam due to conflicts (e.g., illness, religious holidays) may make alternate arrangements (in advance, if at all possible).&lt;/p&gt;
+
+&lt;p&gt;Homework grading will mainly focus on automated test and emphasize correctly completing all or a part of the assignment. Submitting incorrect homework (e.g., submitting the wrong file, files in the wrong format, not compiling code, &amp;hellip;) will result in zero points. Students should double check the file(s) they submitted.&lt;/p&gt;
+
+&lt;p&gt;Cheating will not be tolerated and will result in a grade of zero for that assignment. Further actions against cheating students will be considered. Students are encouraged to consult the instructor to ensure whether (and to which extent) collaboration and discussion among students are allowed for a particular assignment. Students are not allowed to share, copy, or show, the code they developed for an assignment. Students are not allowed to copy homework solutions from online resources (even partially).&lt;/p&gt;
+
+&lt;p&gt;Grading:&lt;/p&gt;
+
+&lt;p&gt;The course grade will be assigned based on the student’s performance on the following testing criteria.&lt;/p&gt;
+
+&lt;p&gt;Homework assignments, including written and programming assignments, will contribute to the 60% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Midterm examination will contribute to the 18% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Final examination will contribute to the 22% of the course grade.&lt;/p&gt;
+
+&lt;p&gt;Dates and times of midterms will be shared in class at least two weeks before the exam.&lt;/p&gt;
+
+&lt;p&gt;Letter grades are assigned with attention to collegiate norm-referenced grading guidelines. Grades with +/- will be assigned. The final grade distribution will roughly adhere to the CLAS suggested grade distribution. However, the instructor holds the right to alter this distribution.&lt;/p&gt;
+
+&lt;p&gt;Late Work:&lt;/p&gt;
+
+&lt;p&gt;Each student will be entitled to 3 late days. One late day may be used to delay the homework submission for a single day (24 hours). A student can use all the 3 late days for a single homework assignment submission. Note that, late submissions for which students have no late days available will not be accepted, regardless of the reason why the student submitted late. Students should exercise the use of late days wisely as the homework assignments are likely to be progressively harder. There will not be any fractional late day.&lt;/p&gt;
+
+&lt;p&gt;Communication Policies:&lt;/p&gt;
+
+&lt;p&gt;Most of the emails regarding grades, homework, and exams should be first directed to the Teaching Assistant. The teaching assistant will forward relevant emails to the instructor as needed. Other emails (e.g., scheduling one-on-one meetings) and also emails of personal nature containing sensitive information, should be directed to the instructor directly. The instructor leaves the decision of determining the sensitivity of an email to the students. All emails directed to the instructor should have the prefix “[CS:4980]” (without the quotes) in the subject line. Complying with this requirement will enable the instructor to process emails faster. Students must use their @uiowa.edu email address when communicating with the TA/instructor. For any matter that requires the instructor’s immediate attention, do not hesitate to schedule a face-to-face meeting.&lt;/p&gt;
+
+&lt;p&gt;The course will follow the following College policies:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://clas.uiowa.edu/faculty/teaching-policies-resources-syllabus-insert&#34; target=&#34;_blank&#34;&gt;https://clas.uiowa.edu/faculty/teaching-policies-resources-syllabus-insert&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fall 2018: Operating Systems (CS:3620)</title>
+      <link>/teaching/fall2018/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2018/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Class time:&lt;/strong&gt; Tuesday and Thursday: 9:30am - 10:45am&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class location:&lt;/strong&gt; 110 MLH (MacLean Hall)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Webpage:&lt;/strong&gt; &lt;a href=&#34;https://sites.google.com/view/antoniobianchiuiowa/teaching/cs3620-fall-2018-operating-systems&#34; target=&#34;_blank&#34;&gt;https://sites.google.com/view/antoniobianchiuiowa/teaching/cs3620-fall-2018-operating-systems&lt;/a&gt;, ICON, and &lt;a href=&#34;https://piazza.com/uiowa/fall2018/cs3620&#34; target=&#34;_blank&#34;&gt;https://piazza.com/uiowa/fall2018/cs3620&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Antonio Bianchi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office:&lt;/strong&gt; 201g&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:antonio-bianchi@uiowa.edu&#34; target=&#34;_blank&#34;&gt;antonio-bianchi@uiowa.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; TBD (Office)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching assistant:&lt;/strong&gt; David McDermott (&lt;a href=&#34;mailto:david-mcdermott-1@uiowa.edu&#34; target=&#34;_blank&#34;&gt;david-mcdermott-1@uiowa.edu&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructor’s office hours:&lt;/strong&gt; Tuesday and Thursday: 11:00am – 12:30pm, and by appointment (in MLH 201g)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching assistant’s office hours:&lt;/strong&gt; Monday 2:30pm - 4:00pm and Wednesday 10:00am - 11:30am (in MLH 101n)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DEO contact information:&lt;/strong&gt; Alberto Segre, 14 MLH (MacLean Hall),&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 319 335 0713, &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:CS-INFO@list.uiowa.edu&#34; target=&#34;_blank&#34;&gt;CS-INFO@list.uiowa.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Course description and objective: This course provides an introduction to the design and implementation of modern operating systems.&lt;/p&gt;
+
+&lt;p&gt;The main topics of this course will be:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Process management and scheduling, including interrupt-handling and scheduling algorithms&lt;/li&gt;
+&lt;li&gt;Memory management, including virtual memory, segmentation, pagination, and addressing&lt;/li&gt;
+&lt;li&gt;Interprocess communication mechanisms, including locks, semaphores, and synchronization issues (such as deadlocks)&lt;/li&gt;
+&lt;li&gt;Secondary storage, peripherals, and file-system management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additional topics may include operating system security and the internals of modern operating systems (e.g., Android).&lt;/p&gt;
+
+&lt;p&gt;Course resources: As part of the class we will be using the book titled: “Operating Systems: Three Easy Pieces” by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. The book has a free online version available on the website: &lt;a href=&#34;http://pages.cs.wisc.edu/%7Eremzi/OSTEP/&#34; target=&#34;_blank&#34;&gt;http://pages.cs.wisc.edu/%7Eremzi/OSTEP/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is also possible to order a hardcover or paperback version of the book from the above website.&lt;/p&gt;
+
+&lt;p&gt;The textbook will be complemented by the &amp;ldquo;Advanced Programming in the UNIX Environment (3rd Edition)&amp;rdquo; by Stevens, Rago. Other resources (such as relevant academic papers or online resources) will be made available using ICON. Students are encouraged to discuss the course material and the challenges they face in solving the different homework assignments. An online discussion forum will be available and will be used as the primary way to ask questions about homework assignments. Before posting a new question, students should check that it has not been already answered.&lt;/p&gt;
+
+&lt;p&gt;Grading Policies: Exams will be comprehensive, covering everything up to the exam date, emphasizing integrating material from recent assignments. The exam may include open questions, multiple-choice questions, numerical problems, and understanding/writing snippets of code. The exams will be closed book. Students that cannot attend the exam due to conflicts (e.g., illness, religious holidays) may make alternate arrangements (in advance, if at all possible).&lt;/p&gt;
+
+&lt;p&gt;For the programming assignments, student will be required to use C, unless otherwise noted. The primary programming environment will be Linux. Students taking this class should have some previous basic knowledge about C programming (in particular, pointers, memory management, &amp;hellip;) and some familiarity interacting with a Linux environment.&lt;/p&gt;
+
+&lt;p&gt;Grading will mainly focus on automated test and emphasize correctly completing all or a part of the assignment. Source code that does not compile may receive zero points. Cheating will not be tolerated and will result in a grade of zero for that assignment. Students are encouraged to consult the instructor to ensure whether (and to which extent) collaboration and discussion among students are allowed for a particular assignment. Students are not allowed to share, copy, show, the code they developed for homework. Students are not allowed to copy homework solutions from online resources (even partially). If any line of code is copied from an online resource (e.g., Stack Overflow), it must be indicated by adding the complete link to the website as a comment.&lt;/p&gt;
+
+&lt;p&gt;Grading: The course grade will be assigned based on the student’s performance on the following testing criteria.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Homework assignments, including written and programming assignments, will contribute to the 55% of the course grade.&lt;/li&gt;
+&lt;li&gt;Midterm examination will contribute to the 20% of the course grade.&lt;/li&gt;
+&lt;li&gt;Final examination will contribute to the 25% of the course grade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dates and times of midterms will be shared in class at least two weeks before the exam.&lt;/p&gt;
+
+&lt;p&gt;Letter grades are assigned with attention to collegiate norm-referenced grading guidelines. Grades with +/- will be assigned. The final grade distribution will roughly adhere to the CLAS suggested grade distribution. Note that, the instructor, however, holds the right to alter this distribution in appropriate circumstances.&lt;/p&gt;
+
+&lt;p&gt;Late Work: Each student will be entitled to 3 late days. One late day may be used to delay the homework submission for a single day (24h). A student can use all the 3 late days for a single homework assignment submission. Note that, late submissions for which students have no late days available will not be accepted. Students should exercise the use of late days wisely as the homework assignments are likely to be progressively harder. There will not be any fractional late day.&lt;/p&gt;
+
+&lt;p&gt;Communication Policies: Most of the emails regarding grades, homework, and exams should be first directed to the Teaching Assistant. The teaching assistant will forward relevant emails to the instructor as needed. Other emails (e.g., scheduling one-on-one meetings) and also emails of personal nature containing sensitive information, should be directed to the instructor directly. The instructor leaves the decision of determining the sensitivity of an email to the students. All emails directed to the instructor should have the prefix “[CS:3620]” (without the quotes) in the subject line. Complying with this requirement will enable the instructor to process emails faster. Students must use their @uiowa.edu email address when communicating with the TA/instructor. For any matter that requires the instructor’s immediate attention, do not hesitate to schedule a face-to-face meeting.&lt;/p&gt;
+
+&lt;p&gt;The course will follow the following College policies: &lt;a href=&#34;https://clas.uiowa.edu/faculty/teaching-policies-resources-syllabus-insert&#34; target=&#34;_blank&#34;&gt;https://clas.uiowa.edu/faculty/teaching-policies-resources-syllabus-insert&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iCTF 2013: mathconsole</title>
+      <link>/posts/ctf-ictf2013-mathconsole/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-ictf2013-mathconsole/</guid>
+      <description>&lt;p&gt;&lt;h3 id=&#34;mathconsole-ictf-2013-writeup&#34;&gt;mathconsole (iCTF 2013): writeup &lt;/h3&gt;
+&lt;p&gt;For the &lt;a href=&#34;http://ictf.cs.ucsb.edu/&#34;&gt;&lt;em&gt;iCTF&lt;/em&gt;&lt;/a&gt; 2013 competition, I developed the service called mathconsole. This writeup will be a a little bit different than usual: I will try not only to explain how to exploit this service, but also to justify some design choices I made while developing it. Additionally, I will also give some insights about how teams have exploited and patched this service.&lt;br /&gt;
+&lt;br /&gt;
+iCTF is a CTF competition organized by &lt;a href=&#34;http://ucsb.edu/&#34;&gt;&lt;em&gt;UCSB&lt;/em&gt;&lt;/a&gt;, its rules are different than usual CTF and tend to change from year to year. You can read the description of the 2013 edition rules &lt;a href=&#34;https://lists.cs.ucsb.edu/pipermail/ctf-participants/20131204/000499.html&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;. My main goal for this service was to implement a server with two well-known vulnerabilities found in the gaming consoles Wii and Playstation 3. As far as I know, both vulnerabilities have been discovered by team Twiizers/fail0verflow &lt;em&gt;[1][2][3][4]&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The first vulnerability (found in the Wii console) is caused by wrongly checking a RSA signature, the second (found in the Playstation 3) is caused by using a non-random nonce in the generation of an ECDSA signature. I will explain these vulnerabilities in detail later in this writeup. Unfortunately, nobody exploited the second vulnerability (about the ECDSA signature), probably because the other one was easier and, given the structure of the competition, it was not really worthing to exploit it. If you are not interested in this vulnerability, you can skip sections &amp;quot;Authorization level bug&amp;quot; and &amp;quot;ECDSA vulnerability&amp;quot;.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&#34;media/mathconsole_blog.zip&#34;&gt;&lt;em&gt;This zip file&lt;/em&gt;&lt;/a&gt; contains the source code of the service, the scripts used to generate benign traffic, the .deb package installed on teams&amp;rsquo; machines, and all the other files I will refer during this writeup (forgive me for the &amp;quot;not exactly clean&amp;quot; code).&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This service has been written in Python 2.7 and it is implemented as a classical forking server. For the networking part, I mainly reused the code I wrote for the service PowerPlan that I wrote for the previous iCTF (you can read a very good writeup &lt;a href=&#34;http://www.rogdham.net/2013/03/23/ictf-powerplan-write-up.en&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; about it). The service is listening on port 9898; when you connect to it you get the following message:&lt;/p&gt;
+&lt;p&gt;Welcome to the most powerful backdoor-free calculator&lt;br /&gt;
+You can use it to safely perform your calculations about Nuclear reactions and trajectories of missiles&lt;br /&gt;
+A new on-the-cloud hacker-proof file storage functionality has been just added&lt;br /&gt;
+available commands:&lt;br /&gt;
+sum|&amp;lt;n1&amp;gt;|&amp;lt;n2&amp;gt; required authorization: L1 or L2&lt;br /&gt;
+multiply|&amp;lt;n1&amp;gt;|&amp;lt;n2&amp;gt; required authorization: L1&lt;br /&gt;
+mod|&amp;lt;n1&amp;gt;|&amp;lt;n2&amp;gt; required authorization: L1 or L2&lt;br /&gt;
+power|&amp;lt;n1&amp;gt;|&amp;lt;n2&amp;gt; required authorization: L3&lt;br /&gt;
+write|&amp;lt;fname&amp;gt;|&amp;lt;b64 content&amp;gt; required authorization: L2&lt;br /&gt;
+read_encrypted1|&amp;lt;fname&amp;gt;|&amp;lt;key&amp;gt; required authorization: L2&lt;br /&gt;
+read_encrypted2|&amp;lt;fname&amp;gt;|&amp;lt;key&amp;gt; required authorization: L2&lt;br /&gt;
+read_protected|&amp;lt;fname&amp;gt;|&amp;lt;password&amp;gt; required authorization: L1 + password&lt;br /&gt;
+what do you want to do?&lt;/p&gt;
+&lt;p&gt;When a command is inserted (in the format &amp;lt;command&amp;gt;|&amp;lt;p1&amp;gt;|&amp;lt;p2&amp;gt;) a signature is asked. Different commands require different authorizations that a user can get by providing a (base64 encoded) 256-byte long signature. We will see how a valid L1 signature can be trivially forged, and that both the verifications of L2 and L3 signatures contain fundamental problems that can be exploited. When a correct signature is provided, the specified command will be executed.&lt;br /&gt;
+&lt;br /&gt;
+The commands &lt;em&gt;sum&lt;/em&gt;, &lt;em&gt;multiply&lt;/em&gt;, &lt;em&gt;mod&lt;/em&gt;, and &lt;em&gt;power&lt;/em&gt; just perform the corresponding mathematical operations and return the result to the user. &lt;em&gt;write&lt;/em&gt; allows the user to write a file in the folder &lt;em&gt;service_files&lt;/em&gt; (we used this command to set the flags in teams&amp;rsquo; machines). &lt;em&gt;read_protected&lt;/em&gt; returns the content of a file in the &lt;em&gt;service_files&lt;/em&gt; folder but it requires a password. Specifically, it checks that the provided password matches with the first line of the content of the file that has been requested. We used this command to check that the flags we stored in the teams&amp;rsquo; machines were not deleted.&lt;br /&gt;
+&lt;br /&gt;
+Finally, &lt;em&gt;read_encrypted1&lt;/em&gt; and &lt;em&gt;read_encrypted2&lt;/em&gt; read and return the content of a file in the folder &lt;em&gt;service_files&lt;/em&gt;, however they need the correct authentication. In theory, it would not be possible to execute them without having the correct RSA and ECDSA private keys (you can find both private keys in file private_keys.txt). In practice, the vulnerabilities of this service allow an attacker to skip almost entirely the verification of the RSA signature and to recover the private ECDSA signature.&lt;br /&gt;
+&lt;br /&gt;
+In this service, flags were written by us using the command &lt;em&gt;write&lt;/em&gt;. Specifically, the first line was a random password protecting a file (which value was only known by us), whereas the second line was the flag. The name of the file was the &lt;em&gt;flag_id&lt;/em&gt;. Attackers had to write exploits that were able to steal the &lt;em&gt;flag&lt;/em&gt; corresponding to the provided &lt;em&gt;flag_id&lt;/em&gt;.  To do so, the only possibility was to use the commands &lt;em&gt;read_encrypted1&lt;/em&gt; or &lt;em&gt;read_encrypted2&lt;/em&gt;. Replay attacks were not possible since the requested &lt;em&gt;flag_id&lt;/em&gt; (and so the command that an attacker needed to sign) were random and always different.&lt;/p&gt;
+&lt;h2 id=&#34;anti-decompilation&#34;&gt;Anti-decompilation&lt;/h2&gt;
+&lt;p&gt;I tried to make this service a little bit tricky to be decompiled. From my experience, &lt;a href=&#34;https://github.com/wibiti/uncompyle2&#34;&gt;&lt;em&gt;uncopyle2&lt;/em&gt;&lt;/a&gt; is usually able to recover &amp;quot;almost perfectly&amp;quot; the original Python code, given the compiled .pyc file. My goal was to create a .pyc file that was perfectly working when executed by the Python interpreter, but that made the decompilation process to fail.&lt;br /&gt;
+&lt;br /&gt;
+By randomly fuzzing a .pyc file and looking a little bit in the Python bytecode specification I realized that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;a division operation (like this: a = 0/0) is compiled to the following 10-byte sequence: 15 5A 12 00 64 04 00 64 04 00&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;changing the second byte from 0x5A to 0x00 makes uncompyle2 to fail with the following error:&lt;br /&gt;
+[&amp;hellip;]&lt;br /&gt;
+194    LOAD_CONST        0&lt;br /&gt;
+197    LOAD_CONST        0&lt;br /&gt;
+200    BINARY_DIVIDE     None&lt;br /&gt;
+201    STOP_CODE         None&lt;br /&gt;
+202    &amp;lt;18&amp;gt;              None&lt;br /&gt;
+203    STOP_CODE         None&lt;br /&gt;
+&lt;br /&gt;
+204    LOAD_CONST        0&lt;br /&gt;
+207    LOAD_CONST        0&lt;br /&gt;
+210    BINARY_DIVIDE     None&lt;br /&gt;
+211    STORE_NAME        &amp;lsquo;a&amp;rsquo;&lt;br /&gt;
+&lt;br /&gt;
+214    LOAD_CONST        0&lt;br /&gt;
+217    LOAD_CONST        0&lt;br /&gt;
+220    BINARY_DIVIDE     None&lt;br /&gt;
+221    STORE_NAME        &amp;lsquo;a&amp;rsquo;&lt;br /&gt;
+[&amp;hellip;]&lt;br /&gt;
+Syntax error at or near `STOP_CODE&amp;rsquo; token at offset 201&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, I inserted in my code (at the &amp;quot;top-level&amp;quot; of the game_server.py file) the following code (that obviously is never executed):&lt;/p&gt;
+&lt;p&gt;#uncompyle trick&lt;br /&gt;
+fff=False&lt;br /&gt;
+if(fff):&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;br /&gt;
+    a = 0/0&lt;/p&gt;
+&lt;p&gt;compile.py compiles game_server.py in game_server.pyc (using the &amp;quot;standard&amp;quot; Python mechanism), then it looks for the byte sequence corresponding to the 15 division instructions I showed before. When it finds this sequence, it patches the second byte of the first division instruction from 0x5A to 0x00. This makes uncompyle2 unable to decompile the .pyc file correctly.&lt;br /&gt;
+&lt;br /&gt;
+The easiest way to fix this is to change the byte at 0xE7 from 0x00 to 0x5A in the file game_server.pyc. After this this modification, uncompyle2 is able to recover the original source code.&lt;/p&gt;
+&lt;h2 id=&#34;signatures-and-authorization-levels&#34;&gt;Signatures and authorization levels&lt;/h2&gt;
+&lt;p&gt;Before executing a command, the service checks if the provided signature grants the authorization level required to execute it. For instance, to execute the command &lt;em&gt;multiply&lt;/em&gt; users have to provide a L1 signature, to execute the command &lt;em&gt;power&lt;/em&gt; a L3 signature is necessary, and to execute the command &lt;em&gt;sum&lt;/em&gt; they can provide either a L1 or a L2 signature. Every signature is 256-byte long, before sending it to the server, it needs to be base64-encoded.&lt;br /&gt;
+&lt;br /&gt;
+I will now explain how L1, L2, and L3 signature are legitimately created by scripts generating benign traffic (see benign1.py, benign2.py, benign3.py, benign4.py). In this context, &lt;em&gt;command&lt;/em&gt; is the full string of the requested command, for instance: &amp;quot;mod|23|5&amp;quot;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;L1&lt;/em&gt;: a sha1 hash of the sent command:&lt;br /&gt;
+hash = self.sha1(command)&lt;br /&gt;
+cert = &amp;quot;X&amp;quot;&lt;em&gt;(256-len(hash)) + hash&lt;br /&gt;
+Of course, this can be trivially forged by anyone.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;L2&lt;/em&gt;: a RSA signature of the sent command:&lt;br /&gt;
+ signer = PKCS1_v1_5.new(private_key_rsa)&lt;br /&gt;
+ digest = SHA.new()&lt;br /&gt;
+ digest.update(command)&lt;br /&gt;
+ cert = signer.sign(digest)&lt;br /&gt;
+To compute it, I use a (secret) private key and the PyCrypto library. See the file benign1.py for the complete source code.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;L3&lt;/em&gt;: an ECDSA signature of the sent command:&lt;br /&gt;
+cert_key = private_key_ec.sign_digest(hash,k=4)&lt;br /&gt;
+cert = &amp;quot;X&amp;quot;&lt;/em&gt;(256-len(cert_key)) + cert_key&lt;br /&gt;
+To compute it, I use a (secret) private key and the Python ecdsa library (install it by using &lt;em&gt;pip install ecdsa&lt;/em&gt;). See the file benign2.py for the complete source code.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;authorization-level-bug&#34;&gt;Authorization level bug&lt;/h2&gt;
+&lt;p&gt;The code managing this authorization-checking functionality is contained in functions &lt;em&gt;init_access&lt;/em&gt; and &lt;em&gt;check_security_level&lt;/em&gt;. I implemented this in a deliberately over-complicated way, to be able to hide a subtle bug. My goal was to allow the command &lt;em&gt;read_encrypted2&lt;/em&gt; to be used providing a L3 signature (even if in the textual description of the commands it is written that &lt;em&gt;read_encrypted2&lt;/em&gt; needs a L2 signature). This will be relevant for the full exploitation of the ECDSA vulnerability, if you are not interested in it, you can just skip this section.&lt;br /&gt;
+&lt;br /&gt;
+I will now explain the permission checking in terms of mathematical operations, the actual implementation is slightly different. A function &lt;em&gt;indexOf()&lt;/em&gt; is defined, such that, given a tuple &lt;em&gt;p&lt;/em&gt; = &amp;lt;command, permission&amp;gt;, it returns an index between 1 and 24. For instance: &lt;em&gt;indexOf(&amp;lt;sum, L3&amp;gt;)&lt;/em&gt; = 3 and &lt;em&gt;indexOf(&amp;lt;multiply, L1&amp;gt;)&lt;/em&gt; = 4. The variable &lt;em&gt;access&lt;em&gt;summary&lt;/em&gt; is computed with the following formula:&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;MathJax-Element-1-Frame&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-1&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-2&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-3&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;a&lt;/em&gt;&lt;span id=&#34;MathJax-Span-4&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;c&lt;/em&gt;&lt;span id=&#34;MathJax-Span-5&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;c&lt;/em&gt;&lt;span id=&#34;MathJax-Span-6&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-7&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-8&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-9&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/em&gt;&lt;span id=&#34;MathJax-Span-10&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-11&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;u&lt;/em&gt;&lt;span id=&#34;MathJax-Span-12&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;m&lt;/em&gt;&lt;span id=&#34;MathJax-Span-13&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;m&lt;/em&gt;&lt;span id=&#34;MathJax-Span-14&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;a&lt;/em&gt;&lt;span id=&#34;MathJax-Span-15&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-16&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;y&lt;/em&gt;&lt;span id=&#34;MathJax-Span-17&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;=&lt;span id=&#34;MathJax-Span-18&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-19&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;∏&lt;span id=&#34;MathJax-Span-20&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-21&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-22&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;p&lt;/em&gt;&lt;span id=&#34;MathJax-Span-23&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-24&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-25&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;P&lt;/em&gt;&lt;span id=&#34;MathJax-Span-26&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-27&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-28&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-29&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-30&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;p&lt;/em&gt;&lt;span id=&#34;MathJax-Span-31&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-32&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;i&lt;/em&gt;&lt;span id=&#34;MathJax-Span-33&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;m&lt;/em&gt;&lt;span id=&#34;MathJax-Span-34&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-35&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-36&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;[&lt;span id=&#34;MathJax-Span-37&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;i&lt;/em&gt;&lt;span id=&#34;MathJax-Span-38&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;n&lt;/em&gt;&lt;span id=&#34;MathJax-Span-39&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;d&lt;/em&gt;&lt;span id=&#34;MathJax-Span-40&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-41&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;x&lt;/em&gt;&lt;span id=&#34;MathJax-Span-42&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;O&lt;/em&gt;&lt;span id=&#34;MathJax-Span-43&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;f&lt;/em&gt;&lt;span id=&#34;MathJax-Span-44&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-45&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;p&lt;/em&gt;&lt;span id=&#34;MathJax-Span-46&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-47&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;]&lt;span id=&#34;MathJax-Span-48&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-49&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-50&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;2&lt;span id=&#34;MathJax-Span-51&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;)&lt;/p&gt;
+&lt;p&gt;Where &lt;em&gt;primes&lt;/em&gt; is a sorted list of all the prime numbers up to 97 and &lt;em&gt;P&lt;/em&gt; is a list of tuples &amp;lt;command, permission&amp;gt; as specified in the textual description of each command. For instance:&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;MathJax-Element-2-Frame&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-52&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-53&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-54&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&amp;lt;&lt;span id=&#34;MathJax-Span-55&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-56&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;u&lt;/em&gt;&lt;span id=&#34;MathJax-Span-57&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;m&lt;/em&gt;&lt;span id=&#34;MathJax-Span-58&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;,&lt;span id=&#34;MathJax-Span-59&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;L&lt;/em&gt;&lt;span id=&#34;MathJax-Span-60&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;1&lt;span id=&#34;MathJax-Span-61&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&amp;gt;∈&lt;span id=&#34;MathJax-Span-62&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;P&lt;/em&gt;&lt;span id=&#34;MathJax-Span-63&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;,&lt;span id=&#34;MathJax-Span-64&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;b&lt;/em&gt;&lt;span id=&#34;MathJax-Span-65&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;u&lt;/em&gt;&lt;span id=&#34;MathJax-Span-66&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;t&lt;/em&gt;&lt;span id=&#34;MathJax-Span-67&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&amp;lt;&lt;span id=&#34;MathJax-Span-68&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;p&lt;/em&gt;&lt;span id=&#34;MathJax-Span-69&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;o&lt;/em&gt;&lt;span id=&#34;MathJax-Span-70&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;w&lt;/em&gt;&lt;span id=&#34;MathJax-Span-71&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-72&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-73&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;,&lt;span id=&#34;MathJax-Span-74&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;L&lt;/em&gt;&lt;span id=&#34;MathJax-Span-75&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;2&lt;span id=&#34;MathJax-Span-76&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&amp;gt;∉&lt;span id=&#34;MathJax-Span-77&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;P&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;To check if a given command C, can be accessed by a signature of level L, it is checked if:&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;MathJax-Element-3-Frame&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-78&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-79&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-80&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-81&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;a&lt;/em&gt;&lt;span id=&#34;MathJax-Span-82&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;c&lt;/em&gt;&lt;span id=&#34;MathJax-Span-83&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;c&lt;/em&gt;&lt;span id=&#34;MathJax-Span-84&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-85&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-86&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-87&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;_&lt;span id=&#34;MathJax-Span-88&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-89&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;u&lt;/em&gt;&lt;span id=&#34;MathJax-Span-90&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;m&lt;/em&gt;&lt;span id=&#34;MathJax-Span-91&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;m&lt;/em&gt;&lt;span id=&#34;MathJax-Span-92&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;a&lt;/em&gt;&lt;span id=&#34;MathJax-Span-93&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-94&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;y&lt;/em&gt;&lt;span id=&#34;MathJax-Span-95&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;%&lt;span id=&#34;MathJax-Span-96&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;p&lt;/em&gt;&lt;span id=&#34;MathJax-Span-97&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-98&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;i&lt;/em&gt;&lt;span id=&#34;MathJax-Span-99&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;m&lt;/em&gt;&lt;span id=&#34;MathJax-Span-100&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-101&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-102&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;[&lt;span id=&#34;MathJax-Span-103&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;i&lt;/em&gt;&lt;span id=&#34;MathJax-Span-104&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;n&lt;/em&gt;&lt;span id=&#34;MathJax-Span-105&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;d&lt;/em&gt;&lt;span id=&#34;MathJax-Span-106&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-107&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;f&lt;/em&gt;&lt;span id=&#34;MathJax-Span-108&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;O&lt;/em&gt;&lt;span id=&#34;MathJax-Span-109&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;f&lt;/em&gt;&lt;span id=&#34;MathJax-Span-110&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-111&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;C&lt;/em&gt;&lt;span id=&#34;MathJax-Span-112&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;,&lt;span id=&#34;MathJax-Span-113&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;L&lt;/em&gt;&lt;span id=&#34;MathJax-Span-114&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-115&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;]&lt;span id=&#34;MathJax-Span-116&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-117&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;==&lt;span id=&#34;MathJax-Span-118&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;0&lt;/p&gt;
+&lt;p&gt;If true, then the command C can be executed by providing a signature of level L, otherwise it cannot.&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;indexOf&lt;/em&gt;(&amp;lt;&lt;em&gt;read_encrypted2&lt;/em&gt;, &lt;em&gt;L3&lt;/em&gt;&amp;gt;) = 21. The list of primes has been deliberately set incorrectly, so that primes[21] = 75 (instead of 79). Since &lt;em&gt;access_summary&lt;/em&gt; contains twice the factor 5 (corresponding to the tuple &amp;lt;&lt;em&gt;sum&lt;/em&gt;, &lt;em&gt;L2&lt;/em&gt;&amp;gt;) and 3 (corresponding to the tuple &amp;lt;&lt;em&gt;sum&lt;/em&gt;, &lt;em&gt;L1&lt;/em&gt;&amp;gt;), &lt;em&gt;access_summary&lt;/em&gt; is divisible by 75 and so the command &lt;em&gt;read_encrypted2&lt;/em&gt; can be used by providing a L3 signature, differently from the textual specification.&lt;/p&gt;
+&lt;h2 id=&#34;rsa-vulnerability&#34;&gt;RSA vulnerability&lt;/h2&gt;
+&lt;p&gt;As I said, in implementing the RSA vulnerability I tried to mimic the one found in the Wii console &lt;em&gt;[2]&lt;/em&gt;. For a general overview of how RSA can be used to sign a message look here &lt;em&gt;[5]&lt;/em&gt;. In theory, to produce a valid L2 signature (that can be used to read the flags by invoking the command &lt;em&gt;read_encrypted1&lt;/em&gt; or &lt;em&gt;read_encrypted2&lt;/em&gt;), it is necessary to have the original private key. However, there is a fundamental bug in how the signature it is checked:&lt;/p&gt;
+&lt;p&gt;def verify_with_pubkey_rsa(self,public_key_rsa,local_hash,certificate):&lt;br /&gt;
+    m = public_key_rsa.encrypt(certificate,None)[0]&lt;br /&gt;
+    m = &amp;quot;\x00&amp;quot;*(256-len(m)) + m&lt;br /&gt;
+    remote_hash = m[-20:] #the padding is not checked&lt;br /&gt;
+    libc = ctypes.CDLL(&amp;quot;libc.so.6&amp;quot;)&lt;br /&gt;
+    if(libc.strncmp(local_hash,remote_hash,20)==0):#strncmp is REALLY bad here&lt;br /&gt;
+        return True&lt;br /&gt;
+    else:&lt;br /&gt;
+        return False&lt;/p&gt;
+&lt;p&gt;As you can see &lt;em&gt;strncmp&lt;/em&gt; is used, instead of &lt;em&gt;memcmp&lt;/em&gt; (I used &lt;em&gt;ctypes&lt;/em&gt; to directly invoke the &lt;em&gt;libc&lt;/em&gt; implementation of &lt;em&gt;strncmp&lt;/em&gt;). &lt;em&gt;strncmp&lt;/em&gt; returns 0 and stops the comparison between the signed hash and the computed one as soon as 0x00 bytes are encountered in the same position in both strings. In addition, the padding of the original (20-byte long) message is not checked.&lt;br /&gt;
+&lt;br /&gt;
+The easiest way to exploit this is to provide a signature of all 0x00 bytes: given the mathematical properties of RSA, this makes m = &amp;quot;\x00&amp;quot; * 256. At this point it is just necessary to provide a command whose sha1 hash starts with 0x00. It is possible to bruteforce it by changing the value &amp;lt;key&amp;gt; of the command &lt;em&gt;read_encrypted1&lt;/em&gt; or &lt;em&gt;read_encrypted2&lt;/em&gt; (&amp;lt;key&amp;gt; cannot be bigger than 4000, however, as we will see, we do not actually need so many tries).&lt;br /&gt;
+&lt;br /&gt;
+Assuming that the sha1 function returns values with a random distribution, the probability of randomly find such a hash in N tries is:&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;MathJax-Element-4-Frame&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-119&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-120&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-121&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;1&lt;span id=&#34;MathJax-Span-122&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;−&lt;span id=&#34;MathJax-Span-123&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-124&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;255&lt;span id=&#34;MathJax-Span-125&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-126&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-127&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;/&lt;span id=&#34;MathJax-Span-128&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;256&lt;span id=&#34;MathJax-Span-129&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-130&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-131&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;N&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For instance, trying as &amp;lt;key&amp;gt; all the numbers between 0 and 2000, the probability of finding a command whose hash starts with 0x00 is more that 99.9%. So, a value of &amp;lt;key&amp;gt; generating a hash with the wanted property can be found in a negligible amount of time. This attack is implemented in exploit.py.&lt;br /&gt;
+&lt;br /&gt;
+It is important to notice that, even if the checking of the padding had been implemented correctly, it would have been still possible to forge a signature. Refer to &lt;em&gt;[2]&lt;/em&gt; for further details.&lt;br /&gt;
+&lt;br /&gt;
+An easy patch to this vulnerability is to change &lt;em&gt;strncmp&lt;/em&gt; to &lt;em&gt;memcmp&lt;/em&gt; (or use the == Python operator). Alternatively, it is possible to directly use the &lt;em&gt;verify&lt;/em&gt; function provided by PyCrypto (that also checks the validity of the padding).&lt;br /&gt;
+&lt;br /&gt;
+To have a complete and working exploit, it is also necessary to revert the manipulation that the service does to the content of the file read before sending it to the client. In fact, the commands &lt;em&gt;read_encrypted1&lt;/em&gt; use (&amp;lt;key&amp;gt; % 256) as a xor-key, whereas &lt;em&gt;read_encrypted2&lt;/em&gt; works similarly, but it rotates right the value (&amp;lt;key&amp;gt; % 256) before xoring it to a new character. Both operations can be trivially reverted (knowing the value of &amp;lt;key&amp;gt;).&lt;/p&gt;
+&lt;h2 id=&#34;ecdsa-vulnerability&#34;&gt;ECDSA vulnerability&lt;/h2&gt;
+&lt;p&gt;The code generating the ECDSA signature (see benign2.py):&lt;/p&gt;
+&lt;p&gt;cert_key = private_key_ec.sign_digest(hash,k=4)&lt;/p&gt;
+&lt;p&gt;uses a fixed value for &lt;em&gt;k&lt;/em&gt;. This is a well-known implementation problem that can be exploited to recover the private_key. See &lt;em&gt;[4]&lt;/em&gt; (or &lt;em&gt;[3]&lt;/em&gt; at minute 35:30)  for the mathematical explanation.&lt;br /&gt;
+&lt;br /&gt;
+To do so, it is necessary to obtain two tuples &amp;lt;message1, signature1&amp;gt;, &amp;lt;message2, signature2&amp;gt;.  This can be done by recording the signatures used when the command &lt;em&gt;power&lt;/em&gt; (that requires a L3 signature) is invoked (benign2.py invokes such a command). The service nicely prints these values on standard output. The script recover_ecdsa_key.py recovers the private key in this way.&lt;br /&gt;
+&lt;br /&gt;
+The code performing the mathematical operations is the following:&lt;/p&gt;
+&lt;p&gt;#using the same variable names as in: &lt;a href=&#34;http://en.wikipedia.org/wiki/Elliptic_Curve_DSA&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/Elliptic_Curve_DSA&lt;/a&gt;&lt;br /&gt;
+n = curve_order&lt;br /&gt;
+s1 = string_to_number(sig1[-24:])&lt;br /&gt;
+s2 = string_to_number(sig2[-24:])&lt;br /&gt;
+r = string_to_number(sig1[-48:-24])&lt;br /&gt;
+&lt;br /&gt;
+z1 = string_to_number(sha1(c1))&lt;br /&gt;
+z2 = string_to_number(sha1(c2))&lt;br /&gt;
+&lt;br /&gt;
+sdiff_inv = inverse_mod(((s1-s2)%n),n)&lt;br /&gt;
+k = ( ((z1-z2)%n) * sdiff_inv) %n&lt;br /&gt;
+r_inv = inverse_mod(r,n)&lt;br /&gt;
+da = (((((s1*k) %n) -z1) %n) * r_inv) % n&lt;br /&gt;
+&lt;br /&gt;
+recovered_private_key_ec = SigningKey.from_secret_exponent(da)&lt;/p&gt;
+&lt;p&gt;Refer to the file recover_ecdsa_key.py for the full implementation.&lt;br /&gt;
+&lt;br /&gt;
+After the recovery of the private key it is possible to use it to generate a valid L3 signature that, due to the bug explained in the section &amp;quot;Authorization level bug&amp;quot;, can be used to invoke the command &lt;em&gt;read_encrypted2&lt;/em&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Once the private key has been recovered, an attacker can produce traffic indistinguishable from the &amp;quot;benign&amp;quot; one. In fact, in this case, the vulnerability is not in the service, but it is in how the client (that I wrote to generate &amp;quot;benign&amp;quot; traffic) use the (secret) private ECDSA signature.&lt;br /&gt;
+&lt;br /&gt;
+The generated benign traffic never targets the &lt;em&gt;read_encrypted2&lt;/em&gt; using a L3 signature both because this is against the textual description of the permissions and because, otherwise, it would have been impossible for teams to distinguish between benign and malicious traffic.&lt;br /&gt;
+&lt;br /&gt;
+For this reason, an easy patch is to change the value 75 in the list of primes to 79, making the command &lt;em&gt;read&lt;em&gt;encrypted2&lt;/em&gt; inaccessible by using a L3 signature (see section &amp;quot;Authorization level bug&amp;quot;).&lt;/p&gt;
+&lt;h2 id=&#34;what-happened-during-the-ictf&#34;&gt;What happened during the iCTF &lt;/h2&gt;
+&lt;p&gt;Unfortunately nobody exploited the ECDSA vulnerability, even if two hours before the ending of the competition I gave this hint:&lt;/p&gt;
+&lt;p&gt;HINT: &lt;a href=&#34;http://xkcd.com/221&#34;&gt;&lt;em&gt;&lt;a href=&#34;http://xkcd.com/221&#34; target=&#34;_blank&#34;&gt;http://xkcd.com/221&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;/ (and 75 is not prime!)&lt;/p&gt;
+&lt;p&gt;35 exploits were submitted, out of which 18 were working. 12 working exploits were just a copy of the exploit for the RSA vulnerability I developed (teams could buy exploits from us). Interestingly, one team obfuscated the source code of its attack. This was pointless, in fact, teams could not see the source code of attacks developed by other teams.&lt;br /&gt;
+&lt;br /&gt;
+Some teams submitted exploits generating a signature different than &amp;quot;\x00&amp;quot; * 256. Specifically, some signatures with the following property were generated:&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;MathJax-Element-5-Frame&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-132&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-133&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;MathJax-Span-134&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-135&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-136&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;a&lt;/em&gt;&lt;span id=&#34;MathJax-Span-137&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/em&gt;&lt;span id=&#34;MathJax-Span-138&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;p&lt;/em&gt;&lt;span id=&#34;MathJax-Span-139&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;u&lt;/em&gt;&lt;span id=&#34;MathJax-Span-140&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;b&lt;/em&gt;&lt;span id=&#34;MathJax-Span-141&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;l&lt;/em&gt;&lt;span id=&#34;MathJax-Span-142&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;i&lt;/em&gt;&lt;span id=&#34;MathJax-Span-143&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;c&lt;/em&gt;&lt;span id=&#34;MathJax-Span-144&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;_&lt;span id=&#34;MathJax-Span-145&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;k&lt;/em&gt;&lt;span id=&#34;MathJax-Span-146&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-147&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;y&lt;/em&gt;&lt;span id=&#34;MathJax-Span-148&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;.&lt;span id=&#34;MathJax-Span-149&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-150&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;n&lt;/em&gt;&lt;span id=&#34;MathJax-Span-151&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;c&lt;/em&gt;&lt;span id=&#34;MathJax-Span-152&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-153&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;y&lt;/em&gt;&lt;span id=&#34;MathJax-Span-154&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;p&lt;/em&gt;&lt;span id=&#34;MathJax-Span-155&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;t&lt;/em&gt;&lt;span id=&#34;MathJax-Span-156&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-157&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-158&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;b&lt;/em&gt;&lt;span id=&#34;MathJax-Span-159&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;64&lt;span id=&#34;MathJax-Span-160&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;d&lt;/em&gt;&lt;span id=&#34;MathJax-Span-161&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-162&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;c&lt;/em&gt;&lt;span id=&#34;MathJax-Span-163&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;o&lt;/em&gt;&lt;span id=&#34;MathJax-Span-164&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;d&lt;/em&gt;&lt;span id=&#34;MathJax-Span-165&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-166&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;(&lt;span id=&#34;MathJax-Span-167&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;s&lt;/em&gt;&lt;span id=&#34;MathJax-Span-168&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;i&lt;/em&gt;&lt;span id=&#34;MathJax-Span-169&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;g&lt;/em&gt;&lt;span id=&#34;MathJax-Span-170&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;n&lt;/em&gt;&lt;span id=&#34;MathJax-Span-171&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;a&lt;/em&gt;&lt;span id=&#34;MathJax-Span-172&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;t&lt;/em&gt;&lt;span id=&#34;MathJax-Span-173&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;u&lt;/em&gt;&lt;span id=&#34;MathJax-Span-174&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;r&lt;/em&gt;&lt;span id=&#34;MathJax-Span-175&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;e&lt;/em&gt;&lt;span id=&#34;MathJax-Span-176&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-177&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-178&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;)&lt;span id=&#34;MathJax-Span-179&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;[&lt;span id=&#34;MathJax-Span-180&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;−&lt;span id=&#34;MathJax-Span-181&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;20&lt;span id=&#34;MathJax-Span-182&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;]&lt;span id=&#34;MathJax-Span-183&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;==&lt;span id=&#34;MathJax-Span-184&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;0&lt;span id=&#34;MathJax-Span-185&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;em&gt;x&lt;/em&gt;&lt;span id=&#34;MathJax-Span-186&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;00&lt;/p&gt;
+&lt;p&gt;Given the bug in the hash comparison, such signatures were still considered as valid if the hash of the submitted command was starting with a 0x00 byte.&lt;br /&gt;
+&lt;br /&gt;
+The first working exploit was submitted by PPP (congratulations!).&lt;br /&gt;
+&lt;br /&gt;
+I did not dig into all the teams&amp;rsquo; machines, but from a quick look I have seen some teams patching the service by changing the &lt;em&gt;strncmp&lt;/em&gt; instruction either with the standard &amp;quot;==&amp;quot; Python operator or the &lt;em&gt;memcmp&lt;/em&gt; libc function.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] &lt;a href=&#34;http://hackmii.com/2008/04/keys-keys-keys&#34;&gt;&lt;em&gt;&lt;a href=&#34;http://hackmii.com/2008/04/keys-keys-keys&#34; target=&#34;_blank&#34;&gt;http://hackmii.com/2008/04/keys-keys-keys&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
+[2] &lt;a href=&#34;http://wiibrew.org/wiki/Signing_bug&#34;&gt;&lt;em&gt;&lt;a href=&#34;http://wiibrew.org/wiki/Signing_bug&#34; target=&#34;_blank&#34;&gt;http://wiibrew.org/wiki/Signing_bug&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
+[3] &lt;a href=&#34;https://www.youtube.com/watch?v=PR9tFXz4Quc&#34;&gt;&lt;em&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=PR9tFXz4Quc&#34; target=&#34;_blank&#34;&gt;http://www.youtube.com/watch?v=PR9tFXz4Quc&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
+[4] &lt;a href=&#34;http://en.wikipedia.org/wiki/Elliptic_Curve_DSA&#34;&gt;&lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Elliptic_Curve_DSA&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/Elliptic_Curve_DSA&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
+[5] &lt;a href=&#34;http://en.wikipedia.org/wiki/RSA_(algorithm)&#34;&gt;&lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RSA_%28algorithm%29&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/RSA_%28algorithm%29&lt;/a&gt;&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Android Forkbomb</title>
+      <link>/posts/android-forkbomb/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/android-forkbomb/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Android Forkbomb&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently, we found that it is possible to freeze any Android device with a simple forkbomb attack.&lt;/p&gt;
+
+&lt;p&gt;Not really exciting, however it is strange that a forkbomb is not considered a security issue by Google, whereas &lt;a href=&#34;http://cve.mitre.org/cgi-bin/cvename.cgi?name=2011-3918&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; is.&lt;/p&gt;
+
+&lt;p&gt;For more details, read this blogpost &lt;a href=&#34;http://reyammer.blogspot.com/2013/06/what-fork-how-to-immediately-block-any.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Defcon Quals 2011: binary l33tness 500</title>
+      <link>/posts/ctf-defconquals2011-bin500/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2011-bin500/</guid>
+      <description>&lt;p&gt;&lt;h3 id=&#34;defcon-19-2011---binary-l33tness-500---writeup&#34;&gt;Defcon 19 (2011) - BINARY L33tness 500 - Writeup &lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://3.bp.blogspot.com/-7fV_JsHadcU/TjXtKXLsYxI/AAAAAAAAACU/95e6C5rWdbg/s1600/decr2.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;media/b500&#34; target=&#34;_blank&#34;&gt;Original Binary&lt;/a&gt;&lt;p&gt;
+&lt;p&gt;&lt;strong&gt;Preliminary analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a standard Windows 32bit PE binary file.&lt;/p&gt;
+&lt;p&gt;When you open it, a random sentence appears in a MessageBox. If you press OK, the program closes.&lt;/p&gt;
+&lt;p&gt;While the MessageBox is open, CPU utilization goes to 100%. Using ProcessExplorer you can see that, inside the b500 process, there are 4 threads using the CPU.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image1.png&#34; width=&#34;600&#34; height=&#34;84&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&amp;quot;Standard&amp;quot; b500 executable behavior&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;If you try to open it using Ollydbg and press F9, you will get an exception and the process ends. This means that there are some anti-debugging checks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main thread&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s start analyzing the main thread.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;The import table is almost empty, imports are retrieved dynamically (LoadLibrary/GetProcAddress) using the function at 0x00401170. Fortunately, Ollydbg is able to understand the destination address of a dynamic call, at least when the EIP is on it.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;At 0x004015EC VirtualAlloc is used to allocate a memory region (at 0x00390000), then memset is used to fill with zeros this region.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;4 threads are created (0x00401872), for every thread a region in the heap is allocated and inside it the addresses of some APIs are written. The entry point of all these threads is 0x00401930 (this is a parameter of CreateThread API).&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;Then the following APIs are called:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;WaitForMultipleObjects&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;CloseHandle This is an anti-debugging check [1 (5) kernel32!CloseHandle]&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;VirtualFree &lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Secondary threads&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First of all, we have to take into consideration that threads are scheduled in a non deterministic way, so we can have different results during different execution of b500.&lt;/p&gt;
+&lt;p&gt;Ollydbg helps us showing the thread ID of the currently debugged thread on the main window caption, moreover, we can see a list of all currently active threads pressing the T button.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image2.png&#34; width=&#34;600&#34; height=&#34;89&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Ollydbg and threads&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;So, let&amp;rsquo;s place a breakpoint at 0x00401930 and restart the program. While debugging the secondary threads, keep in mind that, if the breakpoints at 0x00401930 is hit again, this means that a new thread is started.&lt;/p&gt;
+&lt;p&gt;The code of secondary threads is quite complex, however we can easily understand that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;The addresses of some APIs are retrived.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;RDTSC is called (inside function at 0x00401F10), this instruction writes in EDX:EAX the current value of the number of ticks since reset [2], basically this is used for some time-based anti-debugging checks.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;ZwSetInformationThread is called (0x00401AEC) with flag ThreadHideFromDebugger (push 11). This is an anti-debugging trick [1 (4) NtSetInformationThread].&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;PEB!NtGlobalFlags is checked. This is another anti-debugging check [1 (3) PEB!NtGlobalFlags].&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;Some memory operations are performed.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;CloseHandle API is called. This is another anti-debugging check [1 (5) kernel32!CloseHandle].&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image3.png&#34; width=&#34;600&#34; height=&#34;106&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ZwSetInformationThread call and PEB!NtGlobalFlags check&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Defeating anti-debugging checks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CloseHandle&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We can patch the API code in order to return to the caller without performing any action. There could be a problem if CloseHandle would be called even for legitimate reasons, but, in this executable, this is not the case. Since this function takes one argument, we have to restore the stack with a RETN 4 instruction.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image4.png&#34; width=&#34;600&#34; height=&#34;54&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;CloseHandle patch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;PEB!NtGlobalFlags&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We can change the value of this flag before executing any other instruction. I have patched the original b500 executable file. The new b500 changes the value of PEB!NtGlobalFlags (and PEB!IsDebugged, that is used by IsDebuggerPresent API), then it jumps to the original entry point.&lt;/p&gt;
+&lt;p&gt;You can use Ollydbg to patch the code and save the modifications to the executable. Then, use a tool such as LordPE to change the executable entry point to the address where the patch is located.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image5.png&#34; width=&#34;600&#34; height=&#34;29&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;PEB check patch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;RDTSC&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Just do not place breakpoints inside the code of secondary threads. Of course you need breakpoints and single-step while debugging these threads, but, once you have understood how they work, you can skip them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;ZwSetInformationThread&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Since this API is called (with flag ThreadHideFromDebugger) hardware breakpoints will not work in the thread that shows the MessageBox, but you can still use regular (INT3) breakpoints!&lt;/p&gt;
+&lt;p&gt;With the CloseHandle patch and the PEB check patch active, the MessageBox will appear even if b500 is open inside Ollydbg. Now we can search for the key.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;more&#34; class=&#34;anchor&#34;&gt;&lt;span id=&#34;more-1&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Finding the key &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Restart the program with patch enabled (since Ollydbg disables patches at every restart, I created a modified version of b500 executable with PEB check patch hardcoded). When the MessageBox appears, you need to understand where it has been called, so place a breakpoint inside USER32 code, for instance here:&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image6.png&#34; width=&#34;600&#34; height=&#34;113&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;This breakpoint will be hit when you press the OK button on the MessageBox&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Press F8 until you will arrive to some code (0x00390078) located in 0x00390000 memory region (this region has been allocated by the main thread using the API VirtualAlloc)&lt;/p&gt;
+&lt;p&gt;This is the memory dump of this memory region at 0x00390000:&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image7.png&#34; width=&#34;600&#34; height=&#34;600&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Memory dump at 0x00390000 after that MessageBox has been shown&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;We can see all the message strings. But no string seems to be the key. Probably the key is a value used during the decryption of the strings.&lt;/p&gt;
+&lt;p&gt;On the top of the 0x00390000 region there is some code:&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;./media/image8.png&#34; width=&#34;600&#34; height=&#34;311&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Decryption function for MessageBox strings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;It is easy to identify the decryption loop. To retrieve the key, you can put a breakpoint inside the decryption loop. The problem is that hardware breakpoints do not seem to work (because ZwSetInformationThread with ThreadHideFromDebugger flag has been called). You can use a standard breakpoint, but, since the memory in this region is written dynamically, you need to place the breakpoint after that the memory has been set correctly.&lt;/p&gt;
+&lt;p&gt;Place an hardware breakpoint on write on 0x0039002B and restart the program. This breakpoint is hit twice, the first time when this region is filled with zeros, the second time when the decryption loop code is written. After that the code has been written, you can place a regular breakpoint on 0x0039002B.&lt;/p&gt;
+&lt;p&gt;When it is hit for the first time, the decryption of the MessageBox strings is going to start. You can single step the loop and see that at 0x00390038 a key is read from 0x00DEFF64 and it is 0x10*2=0x20 bytes long.&lt;/p&gt;
+&lt;p&gt;So, the solution is:&lt;/p&gt;
+&lt;p&gt;2FE3903DF19E4B01AC590FBA671DC8752BD68339E49147F29F5502AD6310BB71&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;http://www.symantec.com/connect/articles/windows-anti-debug-reference&#34; target=&#34;_blank&#34;&gt;http://www.symantec.com/connect/articles/windows-anti-debug-reference&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;http://en.wikipedia.org/wiki/Time_Stamp_Counter&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/Time_Stamp_Counter&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Defcon Quals 2011: binary l33tness 400</title>
+      <link>/posts/ctf-defconquals2011-bin400/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2011-bin400/</guid>
+      <description>&lt;h3 id=&#34;defcon-19-2011---binary-l33tness-400---writeup&#34;&gt;Defcon 19 (2011) - BINARY L33tness 400 - Writeup &lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Preliminary analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a Windows 32bit PE binary file. It shows the string &amp;quot;hello world&amp;quot; inside a shell and it exits.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image1.png&#34; width=&#34;600&#34; height=&#34;87&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;b400 output&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;It is packed: PEiD reports: tElock 0.98b1 -&amp;gt; tE!&lt;/p&gt;
+&lt;p&gt;If you open it with Ollydbg, it will say you that b400 executable is packed. This message can be quite annoying, if you wish you can patch Ollydbg itself to skip it :-)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Configuring Ollydbg&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you run it inside Ollydbg, a lot of different errors appear. You can ignore them all:&lt;/p&gt;
+&lt;p&gt;Debugging options --&amp;gt; Exceptions --&amp;gt; &amp;quot;Ignore also the following exceptions or ranges&amp;quot; --&amp;gt; add 00000000-FFFFFFFF range. Set also: &amp;quot;Ignore memory access violations in KERNEL32&amp;quot; and unset all other options.&lt;/p&gt;
+&lt;p&gt;If you press F9 you will get a message &amp;quot;Don&#39;t know how to bypass...&amp;quot;, you can skip it by pressing Shift+F9.&lt;/p&gt;
+&lt;p&gt;Since this program is heavily packed (probably twice), it is useful to have a breakpoint inside VirtualAlloc API, in order to track memory region creations. You can put it here:&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image2.png&#34; width=&#34;600&#34; height=&#34;100&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;When this breakpoint is hit, in EAX you can see the base address of the memory region allocated&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;If you try to change b400 memory or to place a hardware breakpoint, you will get the following error message:&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image3.png&#34; width=&#34;500&#34; height=&#34;90&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;A hardware breakpoint (or a memory modification) has been detected!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This is not a big deal since this check is done only before the first call to VirtualAlloc API, just remember that, when you need to place a hardware breakpoint, you have to do it after that VirtualAlloc has been called at least one time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Finding original executable file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can try to find the original executable file in memory. Run the program, when it terminates you can still search inside its memory for the string &amp;quot;hello world&amp;quot;. You will find it in three different locations. The &amp;quot;hello world&amp;quot; string at 0x00415000 is the most interesting since it is located inside b400 memory. It is dinamically decrypted (in fact, when b400 is going to start, memory at 0x00415000 is filled with zeros).&lt;/p&gt;
+&lt;p&gt;You can understand when it is generated by placing a hardware breakpoint on write on 0x00415000 (Remember: hardware breakpoints can be set only after that VirtualAlloc has been called once).&lt;/p&gt;
+&lt;p&gt;This breakpoint is hit twice. The first time some zeros are written, the second time the &amp;quot;hello world&amp;quot; string is written from instruction at: 0x0042E1FB.&lt;/p&gt;
+&lt;p&gt;Single stepping at this location you can easily identify a decryption function. The code is extremely complex, however you only need to know that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;Most of the time data are copied from [ESI] to [EDI] one byte at a time.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;Under &amp;quot;some circumstances&amp;quot; data written to [EDI] are retrieved in different ways&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For instance, &amp;quot;hello world&amp;quot; is copied from &amp;quot;he? world&amp;quot; (where ?=0x11), 0x11 character is substituted with &amp;quot;llo&amp;quot; string copied from &amp;quot;FlsAlloc&amp;quot; string at 0x40D6EC :-)&lt;/p&gt;
+&lt;p&gt;If you wish, you can dump code from 0x0042E1F8 to 0x0042E2B1 and try to analyze it with IDA Pro, but this is not necessary at all.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image4.png&#34; width=&#34;600&#34; height=&#34;210&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;The decryption function&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;It is useful to understand the range of data copied by this function. You can place a conditional log on 0x0042E1FB and log the value of EDI. You cannot place this breakpoint when the program starts, because the code of this decryption function is written during the execution of b400. So, place a hardware breakpoint on execution on 0x0042E1FB and when it is hit, place the conditional log on 0x0042E1FB.&lt;/p&gt;
+&lt;p&gt;What you will get is a log of memory locations written by the decryption function. It is not 100% complete because, as I said before, not all the data are copied with the MOV BYTE PTR DS:[EDI],AL instruction. However, you can see that this function writes memory from 0x00401000 to 0x0042DDCA.&lt;/p&gt;
+&lt;p&gt;You can change the conditional log settings, in order to make it stop the program execution when EDI==0x0042DDCA, in this way you can see that, when this function finishes, the following code is executed:&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image5.png&#34; width=&#34;600&#34; height=&#34;324&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;Going to Original Entry Point...&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Then:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;IAT is rebuild&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;Memory access is reset (this is an anti-unpacking technique)&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;The execution jumps to the Original Entry Point at 0x00401560&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At 0x00401560 we have the OEP.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image6.png&#34; width=&#34;600&#34; height=&#34;243&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;The Original Entry Point&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;If you wish, now you can dump the process (using LordPE) and fix the IAT (using ImpREC, OEP RVA=0x1560, IAT RVA=0xC000, IAT size=0xF7C). If you do so, you will get a valid PE file. (But it will crash, because some values are read from memory allocated by the packer, I don&#39;t know why... ).&lt;/p&gt;
+&lt;p&gt;Once you have a valid PE file, you can load it in IDA Pro. IDA will correctly understands that code at 0x00401000 is the real &amp;quot;main&amp;quot; of this program.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image7.png&#34; width=&#34;600&#34; height=&#34;210&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;IDA Pro analysis of the &amp;quot;main&amp;quot;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;And now?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We have the unpacked binary, we know where it is decrypted (but it seems that no key is used by the decryption function), so where is the key?&lt;/p&gt;
+&lt;p&gt;Now you can lose hours reversing other decryption functions or the fprintf function (as I did), but it is useless. :-)&lt;/p&gt;
+&lt;p&gt;The decryption function writes data up to 0x0042DDCA, so, let&#39;s see the memory at this location.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image8.png&#34; width=&#34;600&#34; height=&#34;308&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;There is a PE header!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;There is a PE header, if you want, you can see it using Ollydbg integrated PE header parser (you need to paste it inside a full PE header). This PE header is coherent (OEP, IAT, and IAT size) with the original executable we have found, so it is the original PE header of it.&lt;/p&gt;
+&lt;p&gt;Let&#39;s see if there are other PE headers (you can search for &amp;quot;PE&amp;quot; string).&lt;/p&gt;
+&lt;p&gt;At 0x00432046 there is another PE header, section names are: &amp;quot;ddtek&amp;quot;, &amp;quot;rules&amp;quot;, &amp;quot;rsrc&amp;quot; :-)&lt;/p&gt;
+&lt;p&gt;In my opinion, this means that the original executable file has been packed (at least) twice and this is the PE header of the intermediate step. According to this PE header OEP=0x00426000, IAT RVA=0x30014, IAT size=0x8F. If you want to analyze this intermediate step, you can place an hardware breakpoint on execution on 0x00426000&lt;/p&gt;
+&lt;p&gt;Searching for &amp;quot;PE&amp;quot; string you will find also this string (in the middle of hundreds of API names):&lt;/p&gt;
+&lt;p&gt;HowCanThisPossiblyBeAValidPEFile?&lt;/p&gt;
+&lt;p&gt;which is the solution!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How I was suppose to know that?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solving this challenge can be very simple. You just need to run the program until it terminates, dump the memory and search the &amp;quot;PE&amp;quot; string inside the dump. (There is also an online tool that unpacks an executable file and extracts all the strings it founds [&lt;a href=&#34;http://eureka.cyber-ta.org/&#34;&gt;&lt;em&gt;http://eureka.cyber-ta.org&lt;/em&gt;&lt;/a&gt;])&lt;/p&gt;
+&lt;p&gt;The problem is: how to know which is the string to look for?&lt;/p&gt;
+&lt;p&gt;Maybe you can notice that all APIs name are in reverse alphabetical order, except for the &amp;quot;HowCanThisPossiblyBeAValidPEFile?&amp;quot; string.&lt;/p&gt;
+&lt;p&gt;Another possibility is to realize that the program makes a lot of modifications inside PE header and it hides them from memory breakpoints using VirtualProtect API.&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;media/image9.png&#34; width=&#34;600&#34; height=&#34;228&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;b400 is removing memory breakpoints from PE header using VirtualProtect API.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;So you can understand that PE headers are, in some way, important for solving this challenge and you can have the idea of searching for the &amp;quot;PE&amp;quot; string.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
