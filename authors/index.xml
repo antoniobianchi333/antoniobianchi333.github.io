@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Antonio Bianchi</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Antonio Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am an Assistant Professor at Purdue University in the Computer Science Department.
+My research interests cover the fields of software and system security. Specifically, my main research areas are: emerging security threats in mobile platforms, automatic vulnerability detection in mobile apps, program analysis, binary analysis, reverse engineering, binary hardening, binary patching, and security of embedded and IoT devices. In general, my research focuses on designing and developing novel automated approaches and tools to identify vulnerabilities in existing software, fix them, and prevent them.</description>
+    </item>
+    
+  </channel>
+</rss>
