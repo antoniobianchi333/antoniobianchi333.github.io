@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Antonio Bianchi</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Antonio Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving Defcon Quals 2019 VeryAndroidoso using angr</title>
+      <link>/posts/ctf-defconquals2019-veryandroidoso/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2019-veryandroidoso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defcon Quals 2019: ASRybaB</title>
+      <link>/posts/ctf-defconquals2019-asrybab/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2019-asrybab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iCTF 2013: mathconsole</title>
+      <link>/posts/ctf-ictf2013-mathconsole/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-ictf2013-mathconsole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Forkbomb</title>
+      <link>/posts/android-forkbomb/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/android-forkbomb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defcon Quals 2011: binary l33tness 500</title>
+      <link>/posts/ctf-defconquals2011-bin500/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2011-bin500/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defcon Quals 2011: binary l33tness 400</title>
+      <link>/posts/ctf-defconquals2011-bin400/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ctf-defconquals2011-bin400/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
