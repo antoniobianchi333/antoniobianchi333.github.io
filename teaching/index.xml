@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Antonio Bianchi</title>
+    <link>/teaching/</link>
+    <description>Recent content in Teaching on Antonio Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring 2024: Software Security (CS-52700)</title>
+      <link>/teaching/spring2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2023: Honors Seminar (CS-39700)</title>
+      <link>/teaching/fall2023_2/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2023_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2023: Software Security (CS-49000-SWS)</title>
+      <link>/teaching/fall2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2023: Software Security (CS-52700)</title>
+      <link>/teaching/spring2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2022: Honors Seminar (CS-39700)</title>
+      <link>/teaching/fall2022_2/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2022_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2022: Software Security (CS-49000-SWS)</title>
+      <link>/teaching/fall2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2022: Software Security (CS-52700)</title>
+      <link>/teaching/spring2022/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2021: Honors Seminar (CS-39700)</title>
+      <link>/teaching/fall2021_2/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2021: Automated Security Testing (CS-59200-AST)</title>
+      <link>/teaching/fall2021/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2021: Software Security (CS-52700)</title>
+      <link>/teaching/spring2021/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2020: CERIAS Security Seminar (CS-59100)</title>
+      <link>/teaching/fall2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2020: Software Security (CS-52700-LE1)</title>
+      <link>/teaching/spring2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2019: Mobile Systems and Smartphone Security (CS-59000-MSS)</title>
+      <link>/teaching/fall2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring 2019: Mobile Systems and Smartphone Security (CS:4980)</title>
+      <link>/teaching/spring2019/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/spring2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fall 2018: Operating Systems (CS:3620)</title>
+      <link>/teaching/fall2018/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/fall2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

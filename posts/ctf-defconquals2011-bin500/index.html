@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Antonio Bianchi">
+
+  
+  
+  
+    
+  
+  <meta name="description" content=" ">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/posts/ctf-defconquals2011-bin500/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,500|Roboto:400,400italic,500|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.2b48dc63649442c3c34ad57d2e5f031b.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/posts/ctf-defconquals2011-bin500/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Antonio Bianchi">
+  <meta property="og:url" content="/posts/ctf-defconquals2011-bin500/">
+  <meta property="og:title" content="Defcon Quals 2011: binary l33tness 500 | Antonio Bianchi">
+  <meta property="og:description" content=" "><meta property="og:image" content="img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2011-08-02T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2011-08-02T00:00:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title>Defcon Quals 2011: binary l33tness 500 | Antonio Bianchi</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Antonio Bianchi</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/teaching/">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/posts/">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publications/">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Defcon Quals 2011: binary l33tness 500</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2011-08-02 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2011-08-02 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Antonio Bianchi</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Aug 2, 2011</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+
+<h3 id="defcon-19-2011---binary-l33tness-500---writeup">Defcon 19 (2011) - BINARY L33tness 500 - Writeup </h3>
+<p><a href="http://3.bp.blogspot.com/-7fV_JsHadcU/TjXtKXLsYxI/AAAAAAAAACU/95e6C5rWdbg/s1600/decr2.png"></a></p>
+<p>[Original Binary](media/b500)<p>
+<p><strong>Preliminary analysis</strong></p>
+<p>This is a standard Windows 32bit PE binary file.</p>
+<p>When you open it, a random sentence appears in a MessageBox. If you press OK, the program closes.</p>
+<p>While the MessageBox is open, CPU utilization goes to 100%. Using ProcessExplorer you can see that, inside the b500 process, there are 4 threads using the CPU.</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image1.png" width="600" height="84" /></td>
+</tr>
+<tr class="even">
+<td align="left">&quot;Standard&quot; b500 executable behavior</td>
+</tr>
+</tbody>
+</table>
+<p>If you try to open it using Ollydbg and press F9, you will get an exception and the process ends. This means that there are some anti-debugging checks.</p>
+<p><strong>Main thread</strong></p>
+<p>Let's start analyzing the main thread.</p>
+<ul>
+<li><blockquote>
+<p>The import table is almost empty, imports are retrieved dynamically (LoadLibrary/GetProcAddress) using the function at 0x00401170. Fortunately, Ollydbg is able to understand the destination address of a dynamic call, at least when the EIP is on it.</p>
+</blockquote></li>
+<li><blockquote>
+<p>At 0x004015EC VirtualAlloc is used to allocate a memory region (at 0x00390000), then memset is used to fill with zeros this region.</p>
+</blockquote></li>
+<li><blockquote>
+<p>4 threads are created (0x00401872), for every thread a region in the heap is allocated and inside it the addresses of some APIs are written. The entry point of all these threads is 0x00401930 (this is a parameter of CreateThread API).</p>
+</blockquote></li>
+<li><blockquote>
+<p>Then the following APIs are called:</p>
+</blockquote>
+<ul>
+<li><blockquote>
+<p>WaitForMultipleObjects</p>
+</blockquote></li>
+<li><blockquote>
+<p>CloseHandle This is an anti-debugging check [1 (5) kernel32!CloseHandle]</p>
+</blockquote></li>
+<li><blockquote>
+<p>VirtualFree </p>
+</blockquote></li>
+</ul></li>
+</ul>
+<p><strong>Secondary threads</strong></p>
+<p>First of all, we have to take into consideration that threads are scheduled in a non deterministic way, so we can have different results during different execution of b500.</p>
+<p>Ollydbg helps us showing the thread ID of the currently debugged thread on the main window caption, moreover, we can see a list of all currently active threads pressing the T button.</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image2.png" width="600" height="89" /></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Ollydbg and threads</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p>So, let's place a breakpoint at 0x00401930 and restart the program. While debugging the secondary threads, keep in mind that, if the breakpoints at 0x00401930 is hit again, this means that a new thread is started.</p>
+<p>The code of secondary threads is quite complex, however we can easily understand that:</p>
+<ul>
+<li><blockquote>
+<p>The addresses of some APIs are retrived.</p>
+</blockquote></li>
+<li><blockquote>
+<p>RDTSC is called (inside function at 0x00401F10), this instruction writes in EDX:EAX the current value of the number of ticks since reset [2], basically this is used for some time-based anti-debugging checks.</p>
+</blockquote></li>
+<li><blockquote>
+<p>ZwSetInformationThread is called (0x00401AEC) with flag ThreadHideFromDebugger (push 11). This is an anti-debugging trick [1 (4) NtSetInformationThread].</p>
+</blockquote></li>
+<li><blockquote>
+<p>PEB!NtGlobalFlags is checked. This is another anti-debugging check [1 (3) PEB!NtGlobalFlags].</p>
+</blockquote></li>
+<li><blockquote>
+<p>Some memory operations are performed.</p>
+</blockquote></li>
+<li><blockquote>
+<p>CloseHandle API is called. This is another anti-debugging check [1 (5) kernel32!CloseHandle].</p>
+</blockquote></li>
+</ul>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image3.png" width="600" height="106" /></td>
+</tr>
+<tr class="even">
+<td align="left">ZwSetInformationThread call and PEB!NtGlobalFlags check</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Defeating anti-debugging checks</strong></p>
+<p><em>CloseHandle</em></p>
+<p>We can patch the API code in order to return to the caller without performing any action. There could be a problem if CloseHandle would be called even for legitimate reasons, but, in this executable, this is not the case. Since this function takes one argument, we have to restore the stack with a RETN 4 instruction.</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image4.png" width="600" height="54" /></td>
+</tr>
+<tr class="even">
+<td align="left">CloseHandle patch</td>
+</tr>
+</tbody>
+</table>
+<p><em>PEB!NtGlobalFlags</em></p>
+<p>We can change the value of this flag before executing any other instruction. I have patched the original b500 executable file. The new b500 changes the value of PEB!NtGlobalFlags (and PEB!IsDebugged, that is used by IsDebuggerPresent API), then it jumps to the original entry point.</p>
+<p>You can use Ollydbg to patch the code and save the modifications to the executable. Then, use a tool such as LordPE to change the executable entry point to the address where the patch is located.</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image5.png" width="600" height="29" /></td>
+</tr>
+<tr class="even">
+<td align="left">PEB check patch</td>
+</tr>
+</tbody>
+</table>
+<p><em>RDTSC</em></p>
+<p>Just do not place breakpoints inside the code of secondary threads. Of course you need breakpoints and single-step while debugging these threads, but, once you have understood how they work, you can skip them.</p>
+<p><em>ZwSetInformationThread</em></p>
+<p>Since this API is called (with flag ThreadHideFromDebugger) hardware breakpoints will not work in the thread that shows the MessageBox, but you can still use regular (INT3) breakpoints!</p>
+<p>With the CloseHandle patch and the PEB check patch active, the MessageBox will appear even if b500 is open inside Ollydbg. Now we can search for the key.</p>
+<p><span id="more" class="anchor"><span id="more-1" class="anchor"></span></span></p>
+<p><strong>Finding the key </strong></p>
+<p>Restart the program with patch enabled (since Ollydbg disables patches at every restart, I created a modified version of b500 executable with PEB check patch hardcoded). When the MessageBox appears, you need to understand where it has been called, so place a breakpoint inside USER32 code, for instance here:</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image6.png" width="600" height="113" /></td>
+</tr>
+<tr class="even">
+<td align="left">This breakpoint will be hit when you press the OK button on the MessageBox</td>
+</tr>
+</tbody>
+</table>
+<p>Press F8 until you will arrive to some code (0x00390078) located in 0x00390000 memory region (this region has been allocated by the main thread using the API VirtualAlloc)</p>
+<p>This is the memory dump of this memory region at 0x00390000:</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image7.png" width="600" height="600" /></td>
+</tr>
+<tr class="even">
+<td align="left">Memory dump at 0x00390000 after that MessageBox has been shown</td>
+</tr>
+</tbody>
+</table>
+<p>We can see all the message strings. But no string seems to be the key. Probably the key is a value used during the decryption of the strings.</p>
+<p>On the top of the 0x00390000 region there is some code:</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="./media/image8.png" width="600" height="311" /></td>
+</tr>
+<tr class="even">
+<td align="left">Decryption function for MessageBox strings</td>
+</tr>
+</tbody>
+</table>
+<p>It is easy to identify the decryption loop. To retrieve the key, you can put a breakpoint inside the decryption loop. The problem is that hardware breakpoints do not seem to work (because ZwSetInformationThread with ThreadHideFromDebugger flag has been called). You can use a standard breakpoint, but, since the memory in this region is written dynamically, you need to place the breakpoint after that the memory has been set correctly.</p>
+<p>Place an hardware breakpoint on write on 0x0039002B and restart the program. This breakpoint is hit twice, the first time when this region is filled with zeros, the second time when the decryption loop code is written. After that the code has been written, you can place a regular breakpoint on 0x0039002B.</p>
+<p>When it is hit for the first time, the decryption of the MessageBox strings is going to start. You can single step the loop and see that at 0x00390038 a key is read from 0x00DEFF64 and it is 0x10*2=0x20 bytes long.</p>
+<p>So, the solution is:</p>
+<p>2FE3903DF19E4B01AC590FBA671DC8752BD68339E49147F29F5502AD6310BB71</p>
+<p><strong>References</strong></p>
+<p>[1] http://www.symantec.com/connect/articles/windows-anti-debug-reference</p>
+<p>[2] http://en.wikipedia.org/wiki/Time_Stamp_Counter</p>
+
+
+
+    </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/ctf/">CTF</a>
+  
+</div>
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hub703259d6dc6f66958479a17d975ab61_1965031_250x250_fill_lanczos_center_3.png" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/admin/">Antonio Bianchi</a></h5>
+      <h6 class="card-subtitle">Associate Professor</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:antoniob@purdue.edu" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://twitter.com/anton00b" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=RMm4j1AAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="/files/cv.pdf" >
+              <i class="ai ai-cv"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.eeb855c70a08cf40f8f8d58c82fa7d5e.js"></script>
+
+  </body>
+</html>
+

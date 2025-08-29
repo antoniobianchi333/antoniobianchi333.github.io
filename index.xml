@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Bianchi</title>
+    <link>/</link>
+    <description>Recent content on Antonio Bianchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/posts/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication List</title>
+      <link>/publications/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;-selected-publications&#34;&gt;&lt;strong&gt;⏺ Selected Publications&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;My full list of publications and citations is available on &lt;a href=&#34;https://scholar.google.com/citations?user=RMm4j1AAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Patrick Traynor, Dongyan Xu, Dave Jing Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;To appear in Proceedings of the USENIX Security Symposium (Usenix SEC), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/sec23winter-prepub-159-wu-jianliang.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&amp;amp;P), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://allenjlw.github.io/pdfpapers/btsok.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Automated Detection of Cryptographic Inconsistencies in Android’s Keymaster Implementations&lt;/strong&gt;&lt;br&gt;
+Abdullah Imran, &lt;strong&gt;Antonio Bianchi.&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;In Proceedings of the Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3643832.3661893&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Wear’s my Data? Understanding the Cross-Device Runtime Permission Model in Wearables&lt;/strong&gt;&lt;br&gt;
+Doguhan Yeke, Muhammad Ibrahim, Güliz Seray Tuncay, Habiba Farrukh, Abdullah Imran, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Z Berkay Celik.&lt;br&gt;
+&lt;em&gt;In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&amp;amp;P), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://storage.googleapis.com/gweb-research2023-media/pubtools/7766.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;PatchVerif: Discovering Faulty Patches in Robotic Vehicles&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Muslum Ozgur Ozmen, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceeding of the USENIX Security Symposium (Usenix SEC), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/USENIX23_hskim.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;DnD: A Cross-Architecture Deep Neural Network Decompiler&lt;/strong&gt;&lt;br&gt;
+Ruoyu Wu, Taegyu Kim, Dave (Jing) Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceeding of the USENIX Security Symposium (Usenix SEC), 2022&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/sec22-wu-ruoyu.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;PGPATCH: Policy-Guided Logic Bug Patching for Robotic Vehicles&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Muslum Ozgur Ozmen, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceeding of the IEEE Symposium on Security and Privacy (S&amp;amp;P), 2022.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/S&amp;amp;P22_hskim.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceeding of the IEEE Symposium on Security and Privacy (S&amp;amp;P), 2022.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.purdue.edu/homes/dxu/pubs/SP22.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;SafetyNot: on the usage of the SafetyNet attestation API in Android&lt;/strong&gt;&lt;br&gt;
+Muhammad Ibrahim, Abdullah Imran, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services, 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3458864.3466627&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the USENIX Security Symposium (Security), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/daveti/papers/raw/master/security21/lb.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;On the Insecurity of SMS One-Time Password Messages against Local Attackers in Modern Mobile Devices&lt;/strong&gt;&lt;br&gt;
+Zeyu Lei, Yuhong Nan, Yanick Fratantonio, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3B-4_24212_paper.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publications&#34;&gt;&lt;strong&gt;⏺ Publications&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ATTention Please! An Investigation of the App Tracking Transparency Permission&lt;/strong&gt;&lt;br&gt;
+Reham Mohamed, Arjun Arunasalam, Habiba Farrukh, Jason Tong, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Z Berkay Celik.&lt;br&gt;
+&lt;em&gt;To appear in Proceedings of the USENIX Security Symposium (Usenix SEC), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/sec24summer-prepub-1232-mohamed.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Patrick Traynor, Dongyan Xu, Dave Jing Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;To appear in Proceedings of the USENIX Security Symposium (Usenix SEC), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/sec23winter-prepub-159-wu-jianliang.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Automated Detection of Cryptographic Inconsistencies in Android’s Keymaster Implementations&lt;/strong&gt;&lt;br&gt;
+Abdullah Imran, &lt;strong&gt;Antonio Bianchi.&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;In Proceedings of the Annual International Conference on Mobile Systems, Applications, and Services (MobiSys), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3643832.3661893&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;A Systematic Study of Physical Sensor Attack Hardness&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Rwitam Bandyopadhyay, Muslum Ozgur Ozmen, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Yongdae Kim, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&amp;amp;P), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/S&amp;amp;P24_hskim.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&amp;amp;P), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://allenjlw.github.io/pdfpapers/btsok.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Wear’s my Data? Understanding the Cross-Device Runtime Permission Model in Wearables&lt;/strong&gt;&lt;br&gt;
+Doguhan Yeke, Muhammad Ibrahim, Güliz Seray Tuncay, Habiba Farrukh, Abdullah Imran, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Z Berkay Celik.&lt;br&gt;
+&lt;em&gt;In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&amp;amp;P), 2024&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://storage.googleapis.com/gweb-research2023-media/pubtools/7766.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Crystallizer: A Hybrid Path Analysis Framework to Aid in Uncovering Deserialization Vulnerabilities&lt;/strong&gt;&lt;br&gt;
+Prashast Srivastava, Flavio Toffalini, Kostyantyn Vorobyov, François Gauthier, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Mathias Payer.&lt;br&gt;
+&lt;em&gt;In Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.nebelwelt.net/files/23FSE.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Making Sense of Constellations: Methodologies for Understanding Starlink&amp;rsquo;s Scheduling Algorithms&lt;/strong&gt;&lt;br&gt;
+Hammas Bin Tanveer, Mike Puchol, Rachee Singh, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Rishab Nithyanand.&lt;br&gt;
+&lt;em&gt;In Companion of the International Conference on emerging Networking EXperiments and Technologies (CoNEXT), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3624354.3630586&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Demo: Discovering Faulty Patches in Robotic Vehicle Control Software&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Muslum Ozgur Ozmen, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceedings of the Inaugural ISOC Symposium on Vehicle Security and Privacy (VehicleSec), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/VehicleSec23_Demo_PatchVerif.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Short: Rethinking Secure Pairing in Drone Swarms&lt;/strong&gt;&lt;br&gt;
+Muslum Ozgur Ozmen, Habiba Farrukh, Hyungsub Kim, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Z. Berkay Celik.&lt;br&gt;
+&lt;em&gt;In Proceedings of the Inaugural ISOC Symposium on Vehicle Security and Privacy (VehicleSec), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/VehicleSec23_secure_pairing.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;AoT-Attack on Things: A security analysis of IoT firmware updates&lt;/strong&gt;&lt;br&gt;
+Muhammad Ibrahim, Andrea Continella, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of The 8th IEEE European Symposium on Security and Privacy (EuroS&amp;amp;P 2023)&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://ris.utwente.nl/ws/files/303815289/main.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Fuzzing SGX enclaves via host program mutations&lt;/strong&gt;&lt;br&gt;
+Arslan Khan, Muqi Zou, Kyungtae Kim, Dongyan Xu, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dave Jing Tian.&lt;br&gt;
+&lt;em&gt;In Proceedings of The 8th IEEE European Symposium on Security and Privacy (EuroS&amp;amp;P 2023)&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://arslan8.github.io/fuzzsgx.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality&lt;/strong&gt;&lt;br&gt;
+Habiba Farrukh, Reham Mohamed, Aniket Nare, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Z. Berkay Celik.&lt;br&gt;
+&lt;em&gt;In Proceedings of the USENIX Security Symposium (Usenix SEC), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/usenixsecurity23-farrukh.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Discovering Adversarial Driving Maneuvers against Autonomous Vehicles&lt;/strong&gt;&lt;br&gt;
+Ruoyu Song, Muslum Ozgur Ozmen, Hyungsub Kim, Raymond Muller, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceeding of the USENIX Security Symposium (Usenix SEC), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/usenixsecurity23-song.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ARGUS: A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions&lt;/strong&gt;&lt;br&gt;
+Siddharth Muralee, Igibek Koishybayev, Aleksandr Nahapetyan, Greg Tystahl, Brad Reaves, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, William Enck, Alexandros Kapravelos, Aravind Machiry.&lt;br&gt;
+&lt;em&gt;In Proceedings of the USENIX Security Symposium (Usenix SEC), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/usenixsecurity23-muralee.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;PatchVerif: Discovering Faulty Patches in Robotic Vehicles&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Muslum Ozgur Ozmen, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceeding of the USENIX Security Symposium (Usenix SEC), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/USENIX23_hskim.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Fuzz The Power: Dual-role State Guided Black-box Fuzzing for USB Power Delivery&lt;/strong&gt;&lt;br&gt;
+Kyungtae Kim, Sungwoo Kim, Kevin RB Butler, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Rick Kennell, Dave Jing Tian.&lt;br&gt;
+&lt;em&gt;In Proceeding of the USENIX Security Symposium (Usenix SEC), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/usenixsecurity23-kim-kyungtae.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;COLUMBUS: Android App Testing Through Systematic Callback Exploration&lt;/strong&gt;&lt;br&gt;
+Priyanka Bose, Dipanjan Das, Saastha Vasan, Sebastiano Mariani, Ilya Grishchenko, Andrea Continella, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Christopher Kruegel, Giovanni Vigna.
+&lt;em&gt;In Proceedings of the International Conference on Software Engineering (ICSE), 2023&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2302.09116.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;DnD: Decompiling Deep Neural Network Compiled Binary&lt;/strong&gt;&lt;br&gt;
+Ruoyu Wu, Taegyu Kim, Dave (Jing) Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu&lt;br&gt;
+&lt;em&gt;Black Hat Europe 2022&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Demo: Policy-based Discovery and Patching of Logic Bugs in Robotic Vehicles&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Muslum Ozgur Ozmen, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Z. Berkay Celik, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceedings of the Automotive and Autonomous Vehicle Security Workshop (AutoSec 2022)&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/AutoSec21_hskim.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ShadowAuth: Backward-Compatible Automatic CAN Authentication for Legacy ECUs&lt;/strong&gt;&lt;br&gt;
+Sungwoo Kim, Gisu Yeo, Taegyu Kim, Junghwan &amp;ldquo;John&amp;rdquo; Rhee, Yuseok Jeon, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu, and Dave (Jing) Tian.&lt;br&gt;
+&lt;em&gt;In Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIA CCS ’22), 2022&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3488932.3523263&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;TruEMU: An Extensible, Open-Source, Whole-System iOS Emulator&lt;/strong&gt;&lt;br&gt;
+Trung Nguyen, Kyungtae Kim, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dave (Jing) Tian.&lt;br&gt;
+&lt;em&gt;Black Hat 2022&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.blackhat.com/us-22/briefings/schedule/#truemu-an-extensible-open-source-whole-system-ios-emulator-27223&#34;&gt;[Slides]&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=PBeIW2PDFVk&#34;&gt;[Video]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;DnD: A Cross-Architecture Deep Neural Network Decompiler&lt;/strong&gt;&lt;br&gt;
+Ruoyu Wu, Taegyu Kim, Dave (Jing) Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu&lt;br&gt;
+&lt;em&gt;In Proceeding of the USENIX Security Symposium (Usenix SEC), 2022&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/sec22-wu-ruoyu.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;SARA: Secure Android Remote Authorization&lt;/strong&gt;&lt;br&gt;
+Abdullah Imran, Habiba Farrukh, Muhammad Ibrahim, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceeding of the USENIX Security Symposium (Usenix SEC), 2022&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/sec22-imran.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;One Fuzz Doesn’t Fit All: Optimizing Directed Fuzzing via Target-tailored Program State Restriction&lt;/strong&gt;&lt;br&gt;
+Prashast Srivastava, Stefan Nagy, Matthew Hicks, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Mathias Payer.&lt;br&gt;
+&lt;em&gt;In Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2022&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3564625.3564643&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;PGPATCH: Policy-Guided Logic Bug Patching for Robotic Vehicles&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Muslum Ozgur Ozmen, Z. Berkay Celik, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceeding of the IEEE Symposium on Security and Privacy (S&amp;amp;P), 2022.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://kimhyungsub.github.io/S&amp;amp;P22_hskim.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;FUZZUSB: Hybrid Stateful Fuzzing of the Linux USB Gadget Stack&lt;/strong&gt;&lt;br&gt;
+Kyungtae Kim, Ertza Warraich, Taegyu Kim, Byoungyoung Lee, Kevin Butler, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Dave (Jing) Tian.&lt;br&gt;
+&lt;em&gt;In Proceeding of the IEEE Symposium on Security and Privacy (S&amp;amp;P), 2022.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://par.nsf.gov/servlets/purl/10344259&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceeding of the IEEE Symposium on Security and Privacy (S&amp;amp;P), 2022.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.cs.purdue.edu/homes/dxu/pubs/SP22.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;SafetyNot: on the usage of the SafetyNet attestation API in Android&lt;/strong&gt;&lt;br&gt;
+Muhammad Ibrahim, Abdullah Imran, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services, 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3458864.3466627&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Towards Improving Container Security by Preventing Runtime Escapes&lt;/strong&gt;&lt;br&gt;
+Michael Reeves, Dave (Jing) Tian, &lt;strong&gt;&lt;strong&gt;Antonio Bianchi&lt;/strong&gt;&lt;/strong&gt;, Z. Berkay Celik.&lt;br&gt;
+&lt;em&gt;In Proceeding of the IEEE Secure Development Conference (SecDev), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://mastermjr.com/papers/Towards_Improving_Container_Security_by_Preventing_Runtime_Escapes.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;APPJITSU: Investigating the Resiliency of Android Applications&lt;/strong&gt;&lt;br&gt;
+Onur Zungur, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Gianluca Stringhini, Manuel Egele.&lt;br&gt;
+&lt;em&gt;In Proceedings of the European IEEE Symposium on Security and Privacy (Euro S&amp;amp;P), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://seclab.bu.edu/papers/appjitsu-eurosp2021.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the USENIX Security Symposium (Security), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/daveti/papers/raw/master/security21/lb.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles&lt;/strong&gt;&lt;br&gt;
+Arslan Khan, Hyubgsub Kim, Byoungyoung Lee, Dongyan Xu, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, and Dave (Jing) Tian.&lt;br&gt;
+&lt;em&gt;In Proceedings of the USENIX Security Symposium (Security), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/daveti/papers/raw/master/security21/m2mon.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles&lt;/strong&gt;&lt;br&gt;
+Hyungsub Kim, Muslum Ozgur Ozmen, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Z. Berkay Celik, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-1_24096_paper.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;On the Insecurity of SMS One-Time Password Messages against Local Attackers in Modern Mobile Devices&lt;/strong&gt;&lt;br&gt;
+Zeyu Lei, Yuhong Nan, Yanick Fratantonio, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;In Proceedings of the Network and Distributed System Security Symposium (NDSS), 2021.&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3B-4_24212_paper.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy&lt;/strong&gt;&lt;br&gt;
+Jianliang Wu, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Mathias Payer, Dongyan Xu.&lt;br&gt;
+&lt;em&gt;In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020.&lt;/em&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Best Paper Award   &amp;mdash;   CSAW&#39;20 Applied Research Competition Finalist&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/allenjlw/allenjlw.github.io/raw/master/pdfpapers/blesa.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Exploring Syscall-Based Semantics Reconstruction of Android Applications&lt;/strong&gt;&lt;br&gt;
+Dario Nisi, &lt;strong&gt;Antonio Bianchi&lt;/strong&gt;, Yanick Fratantonio&lt;br&gt;
+&lt;em&gt;In Proceedings of the International Symposium on Research in Attacks, Intrusions and Defenses (RAID)&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.usenix.org/system/files/raid2019-nisi.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
