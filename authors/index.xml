@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Antonio Bianchi</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Antonio Bianchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am an Associate Professor at Purdue University in the Computer Science Department and co-founder of the PurSec Lab.
+My research interests span the domains of software and systems security. Specifically, I am currently focusing on enhancing the security of edge devices, such as smartphones, IoT devices, drones, and embedded systems.
+Within this area, my work is dedicated to designing and developing innovative automated methodologies and tools that identify vulnerabilities, remediate them, and prevent future occurrences.</description>
+    </item>
+    
+  </channel>
+</rss>
